@@ -1,0 +1,242 @@
+{
+  "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+  "errors": [
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 2,
+      "field": "theory_id",
+      "global_id": "TH-SOLOW-01",
+      "msg": "bad global_id format: TH-SOLOW-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 3,
+      "field": "theory_id",
+      "global_id": "TH-SOLOW-02",
+      "msg": "bad global_id format: TH-SOLOW-02",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 4,
+      "field": "theory_id",
+      "global_id": "TH-RCK-01",
+      "msg": "bad global_id format: TH-RCK-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 5,
+      "field": "theory_id",
+      "global_id": "TH-DIAMOND-01",
+      "msg": "bad global_id format: TH-DIAMOND-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "vocabulary",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 5,
+      "field": "verification_status/evidence_status",
+      "msg": "unknown verification_status/evidence_status: Extracted from Ch2 Part B",
+      "rule": "V5_VOCAB"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 6,
+      "field": "theory_id",
+      "global_id": "TH-AK-01",
+      "msg": "bad global_id format: TH-AK-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 7,
+      "field": "theory_id",
+      "global_id": "TH-ROMER-01",
+      "msg": "bad global_id format: TH-ROMER-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "vocabulary",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 7,
+      "field": "verification_status/evidence_status",
+      "msg": "unknown verification_status/evidence_status: Extracted from Ch3 Section 3.5",
+      "rule": "V5_VOCAB"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 8,
+      "field": "theory_id",
+      "global_id": "TH-RBC-01",
+      "msg": "bad global_id format: TH-RBC-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 9,
+      "field": "theory_id",
+      "global_id": "TH-NK-01",
+      "msg": "bad global_id format: TH-NK-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 10,
+      "field": "theory_id",
+      "global_id": "TH-DSGE-01",
+      "msg": "bad global_id format: TH-DSGE-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 11,
+      "field": "theory_id",
+      "global_id": "TH-CONS-01",
+      "msg": "bad global_id format: TH-CONS-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 12,
+      "field": "theory_id",
+      "global_id": "TH-INV-01",
+      "msg": "bad global_id format: TH-INV-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 13,
+      "field": "theory_id",
+      "global_id": "TH-UNEMP-01",
+      "msg": "bad global_id format: TH-UNEMP-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "vocabulary",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 13,
+      "field": "verification_status/evidence_status",
+      "msg": "unknown verification_status/evidence_status: Extracted from Ch10",
+      "rule": "V5_VOCAB"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 14,
+      "field": "theory_id",
+      "global_id": "TH-MON-01",
+      "msg": "bad global_id format: TH-MON-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "vocabulary",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 14,
+      "field": "verification_status/evidence_status",
+      "msg": "unknown verification_status/evidence_status: Extracted from Ch11",
+      "rule": "V5_VOCAB"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 15,
+      "field": "theory_id",
+      "global_id": "TH-FISC-01",
+      "msg": "bad global_id format: TH-FISC-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "vocabulary",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 15,
+      "field": "verification_status/evidence_status",
+      "msg": "unknown verification_status/evidence_status: Extracted from Ch12",
+      "rule": "V5_VOCAB"
+    },
+    {
+      "check": "global_id",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 16,
+      "field": "theory_id",
+      "global_id": "TH-CRISIS-01",
+      "msg": "bad global_id format: TH-CRISIS-01",
+      "rule": "V2_GLOBAL_ID"
+    },
+    {
+      "check": "pages",
+      "severity": "ERROR",
+      "file": "research/advanced-macroeconomics-fourth-edition/workflows/04_theory_registry.csv",
+      "line": 16,
+      "field": "pdf_page",
+      "msg": "non-integer pdf_page: What macroeconomic lessons from the 2008 financial crisis?\"",
+      "rule": "V4_PAGES"
+    }
+  ],
+  "summary": {
+    "errors": 21,
+    "total_records": 15
+  },
+  "schema": {
+    "columns": 19,
+    "header": [
+      "theory_id",
+      "canonical_name",
+      "original_name",
+      "authors",
+      "year",
+      "chapter_id",
+      "section_title",
+      "printed_page",
+      "pdf_page",
+      "research_question",
+      "assumptions",
+      "mechanisms",
+      "key_results",
+      "limitations",
+      "empirical_evidence",
+      "related_theories",
+      "thesis_relevance",
+      "evidence_status",
+      "verification_notes"
+    ]
+  },
+  "timestamp": "2026-10-27T03:36:09.867595Z",
+  "run_identifier": "run-20261027T033609Z",
+  "parser_dependency_status": {
+    "sympy": true
+  }
+}

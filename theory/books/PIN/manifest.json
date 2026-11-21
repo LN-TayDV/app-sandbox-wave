@@ -1,0 +1,15 @@
+{
+  "book_code": "PIN",
+  "pdf_path": "data/book/Robert S Pindyck_ Daniel L Rubinfeld - Microeconomics, Global Edition (2017, Pearson Education Limited) - libgen.li.pdf",
+  "pdf_abs_path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\Robert S Pindyck_ Daniel L Rubinfeld - Microeconomics, Global Edition (2017, Pearson Education Limited) - libgen.li.pdf",
+  "sha256": "f24ccd442e2cf88912904dec7627a99163c8db9432cf12b8c040af06fee247c2",
+  "total_pages": 787,
+  "pages_with_text": 786,
+  "pages_empty": 1,
+  "image_pages": 1,
+  "printed_pages_verified": 756,
+  "printed_pages_inferred": 29,
+  "printed_pages_unknown": 2,
+  "pages_with_warnings": 18,
+  "extraction_method": "pymupdf_get_text_text_plus_dict"
+}

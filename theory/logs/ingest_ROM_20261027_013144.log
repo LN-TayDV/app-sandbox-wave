@@ -1,0 +1,96 @@
+{
+  "book_code": "ROM",
+  "pdf": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\b81821bd16a42211f919748c26cd0774.pdf",
+  "sha256": "2c40e2a14f4b8389b12082a4fdcae19889d28c3935e19ed6cfd3259b89a07919",
+  "total_pages": 738,
+  "utc": "20261027_013144",
+  "manifest": {
+    "book_code": "ROM",
+    "pdf_path": "data/book/b81821bd16a42211f919748c26cd0774.pdf",
+    "pdf_abs_path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\b81821bd16a42211f919748c26cd0774.pdf",
+    "sha256": "2c40e2a14f4b8389b12082a4fdcae19889d28c3935e19ed6cfd3259b89a07919",
+    "total_pages": 738,
+    "pages_with_text": 737,
+    "pages_empty": 1,
+    "image_pages": 1,
+    "printed_pages_verified": 716,
+    "printed_pages_inferred": 0,
+    "printed_pages_unknown": 22,
+    "pages_with_warnings": 12,
+    "extraction_method": "pymupdf_get_text_text_plus_dict"
+  },
+  "page_warnings": [
+    {
+      "pdf_page": 2,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "warnings": [
+        "trang_it_text(39ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "warnings": [
+        "trang_it_text(86ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "warnings": [
+        "trang_it_text(11ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "warnings": [
+        "trang_it_text(134ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 20,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 285,
+      "warnings": [
+        "trang_it_text(140ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 439,
+      "warnings": [
+        "trang_it_text(141ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 484,
+      "warnings": [
+        "trang_it_text(112ky_tu)"
+      ]
+    }
+  ]
+}

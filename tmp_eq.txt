@@ -1,0 +1,11 @@
+﻿(13.1)
+zi, but this is not required. This model falls in the class (13.1) by setting
+(13.2)
+Deﬁne the sample analog of (13.2)
+(13.3)
+(13.4)
+(13.4) above.
+(13.5)
+(13.6)
+(a) Show that you can rewrite Jn(β) in (13.5) as
+(b) Show that in this setting, the distance statistic D in (13.6) equals the Wald statistic.

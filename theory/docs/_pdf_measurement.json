@@ -1,0 +1,82 @@
+{
+  "HAN": {
+    "file": "econometrics-bruce-hansen-2014.pdf",
+    "exists": true,
+    "size_bytes": 2631458,
+    "total_pages": 387,
+    "sha256": "56b7780f852a47d76a0aa757c8b35b30ac3f04dc2f60ffdc3b98ed49af833bc5",
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "econometrics.dvi",
+      "author": "Bruce",
+      "subject": "",
+      "keywords": "",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.3.1 (Windows)",
+      "creationDate": "D:20140103150703-06'00'",
+      "modDate": "D:20140103150703-06'00'",
+      "trapped": "",
+      "encryption": null
+    }
+  },
+  "ROM": {
+    "file": "b81821bd16a42211f919748c26cd0774.pdf",
+    "exists": true,
+    "size_bytes": 3906664,
+    "total_pages": 738,
+    "sha256": "2c40e2a14f4b8389b12082a4fdcae19889d28c3935e19ed6cfd3259b89a07919",
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "Advanced Macroeconomics",
+      "author": "David Romer",
+      "subject": "",
+      "keywords": "",
+      "creator": "Textures®: AdobePS 8.7.0",
+      "producer": "Acrobat Distiller 7.0.5 for Macintosh",
+      "creationDate": "D:20111206173830+05'30'",
+      "modDate": "D:20111208183108+05'30'",
+      "trapped": "",
+      "encryption": null
+    }
+  },
+  "PIN": {
+    "file": "Robert S Pindyck_ Daniel L Rubinfeld - Microeconomics, Global Edition (2017, Pearson Education Limited) - libgen.li.pdf",
+    "exists": true,
+    "size_bytes": 21895032,
+    "total_pages": 787,
+    "sha256": "f24ccd442e2cf88912904dec7627a99163c8db9432cf12b8c040af06fee247c2",
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "Microeconomics, Global Edition",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "",
+      "creationDate": "D:20180531030332Z",
+      "modDate": "D:20180531030445+01'00'",
+      "trapped": "",
+      "encryption": null
+    }
+  },
+  "MAD": {
+    "file": "international-financial-management-11th-edition-by-jeff-madura.pdf",
+    "exists": true,
+    "size_bytes": 10993501,
+    "total_pages": 742,
+    "sha256": "c3d46ad07d42605115d358a9cfbc97a868a93fd6f5de9e79828a56568b984d36",
+    "metadata": {
+      "format": "PDF 1.5",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "",
+      "creationDate": "D:20160922120207+08'00'",
+      "modDate": "D:20160922120207+08'00'",
+      "trapped": "",
+      "encryption": null
+    }
+  }
+}

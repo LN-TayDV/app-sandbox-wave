@@ -1,0 +1,827 @@
+{
+  "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+  "errors": [
+    {
+      "check": "schema",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 1,
+      "field": null,
+      "msg": "column names/order differ from expected for 16-col equation registry",
+      "rule": "V1_SCHEMA"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 2,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 3,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 4,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 5,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 6,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 7,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 8,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 9,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 10,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 11,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 12,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 13,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 14,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 15,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 16,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 17,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 18,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 19,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 20,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 21,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 22,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 23,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 24,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 25,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 26,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 27,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 28,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 29,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 30,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 31,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 32,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 33,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 34,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 35,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 36,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 37,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 38,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 39,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 40,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 41,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 42,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 43,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 44,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 45,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 46,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 47,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 48,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 49,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 50,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 51,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 52,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 53,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 54,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 55,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 56,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 57,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 58,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 59,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 60,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 61,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 62,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 63,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 64,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 65,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 66,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 67,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 68,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 69,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 70,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 71,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 72,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 73,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 74,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 75,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 76,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 77,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 78,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 79,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 80,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 81,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 82,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 83,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 84,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 85,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 86,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 87,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    },
+    {
+      "check": "foreign_key",
+      "severity": "ERROR",
+      "file": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch07_units.csv",
+      "line": 88,
+      "field": "theory_id",
+      "msg": "theory_id is required in equation registry",
+      "rule": "V3_FK"
+    }
+  ],
+  "summary": {
+    "errors": 88,
+    "total_records": 87
+  },
+  "schema": {
+    "columns": 16,
+    "header": [
+      "global_id",
+      "book_code",
+      "chapter",
+      "kind",
+      "label",
+      "printed_page",
+      "pdf_page",
+      "definition",
+      "meaning",
+      "usage",
+      "equation_latex",
+      "symbols",
+      "verification_status",
+      "theory_id",
+      "note",
+      "source_ref"
+    ]
+  },
+  "timestamp": "2026-10-27T03:49:39.384345Z",
+  "run_identifier": "run-20261027T034939Z",
+  "parser_dependency_status": {
+    "sympy": true
+  }
+}

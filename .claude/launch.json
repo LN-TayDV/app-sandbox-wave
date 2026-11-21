@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "micro-preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["vite", "preview", "research/microeconomics-pindyck-rubinfeld/web", "--outDir", "dist", "--port", "5190", "--strictPort"],
+      "port": 5190
+    },
+    {
+      "name": "macro-dev",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["vite", "research/advanced-macroeconomics-fourth-edition/web", "--port", "5191", "--strictPort"],
+      "port": 5191
+    }
+  ]
+}

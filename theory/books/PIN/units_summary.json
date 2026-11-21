@@ -1,0 +1,16 @@
+{
+  "book": "PIN",
+  "units": 1363,
+  "kinds": {
+    "table": 120,
+    "example": 167,
+    "figure": 808,
+    "caveat": 156,
+    "equation": 73,
+    "assumption": 18,
+    "concept": 2,
+    "narrative": 19
+  },
+  "chapters": 19,
+  "files": 20
+}

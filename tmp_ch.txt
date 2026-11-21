@@ -1,0 +1,8 @@
+HAN-p0280 p280 :: CHAPTER 12. SERIES ESTIMATION 271 The critical condition is the assumption that nK−2α →0. This requires that K →∞at a ra
+HAN-p0281 p281 :: CHAPTER 12. SERIES ESTIMATION 272 Second, (12.25) shows that the estimator has the asymptotic bias component rK(x). This
+HAN-p0282 p282 :: CHAPTER 12. SERIES ESTIMATION 273 We start with some convergence results for the sample design matrix bQK = 1 nZ0 KZK = 
+HAN-p0283 p283 :: CHAPTER 12. SERIES ESTIMATION 274 Using (12.32) and the Quadratic Inequality (A.14), ³ bβK −βK ´0 ³ bβK −βK ´ = n−2 ¡ e0
+HAN-p0284 p284 :: CHAPTER 12. SERIES ESTIMATION 275 and thus r n vk ³ ˆθK −θK + a (rK) ´ = r n vk a0 K ³ bβK −βK ´ = r 1 nvk a0 K bQ −1 K 
+HAN-p0285 p285 :: CHAPTER 12. SERIES ESTIMATION 276 under Assumption 12.7.1.4. This establishes Lyapunov’s condition (12.42). Hence the Li
+HAN-p0286 p286 :: CHAPTER 12. SERIES ESTIMATION 277 Equations (12.46), (12.47) and (12.50) applied to (12.38)-(12.40) show that r n vk ³ ˆ
+HAN-p0287 p287 :: Chapter 13 Generalized Method of Moments 13.1 Overidentiﬁed Linear Model Consider the linear model yi = x0 iβ + ei = x0 

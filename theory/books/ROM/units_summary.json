@@ -1,0 +1,16 @@
+{
+  "book": "ROM",
+  "units": 1139,
+  "kinds": {
+    "equation": 741,
+    "figure": 227,
+    "caveat": 65,
+    "concept": 11,
+    "exercise": 46,
+    "assumption": 30,
+    "table": 7,
+    "narrative": 12
+  },
+  "chapters": 12,
+  "files": 12
+}

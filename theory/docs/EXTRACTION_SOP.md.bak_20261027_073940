@@ -1,0 +1,36 @@
+# EXTRACTION_SOP.md
+
+## 6 điều kiện DONE của một chương
+1. Phủ — mọi mục vào registry; coverage = 100% đơn vị nội dung.
+2. Trích dẫn — mọi dòng có book_code, printed_page, pdf_page, global_id.
+3. Nhãn bằng chứng — verification_status ∈ tập nhãn hợp đồng.
+4. Toán học — equation_latex parse được (SymPy) + trạng thái đúng + formula_ref.
+5. Validator — validate_theory_layer.py xanh.
+6. Báo cáo chương — CHAPTER_REPORT_<BOOK>_<CH>.md.
+
+## Bảng kind (10 loại) + trường bắt buộc
+| kind | trường bắt buộc |
+|---|---|
+| concept | definition, meaning, usage |
+| equation | equation_latex, symbols, verification_status |
+| assumption | statement, scope, role |
+| theorem | statement, premises, conclusion, proof_sketch |
+| caveat | statement, trigger, severity |
+| example | setup, result, numbers |
+| figure | caption, file, source_page |
+| table | caption, data_file, source_page |
+| exercise | question, answer_available, answer |
+| narrative | summary |
+
+## Quy trình toán học A/B/C
+- A: copy nguyên văn → BOOK_EVIDENCE
+- B: mất vị trí chỉ số → FORMULA_UNVERIFIED + ghi chú
+- C: công thức là ảnh → render-diff (scientific/registry.py) → NUMERICALLY_VERIFIED hoặc FORMULA_UNVERIFIED
+
+## Quy tắc render-diff
+Bậc C bắt buộc đi qua symbolic → numeric → render, so khớp ảnh trang. Không khớp → FORMULA_UNVERIFIED. Không tự sửa.
+
+## Mẫu báo cáo chương
+Bảng đối chiếu: mục trong chương | global_id | kind | verification_status | printed_page.
+PYEOF
+print("written")

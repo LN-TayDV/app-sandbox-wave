@@ -1,0 +1,2109 @@
+Cross-Border Banking and the International Transmission of Financial Distress during the Crisis of 2007-2008
+by Alexander Popov and Gregory F. Udell
+
+Working Paper Series
+No 1203 / June 2010
+
+WORKING PAPER SERIES
+NO 1203 / June 2010
+CROSS-BORDER BANKING AND THE INTERNATIONAL TRANSMISSION
+OF FINANCIAL DISTRESS DURING THE CRISIS OF 2007-2008 1
+by Alexander Popov 2 and Gregory F. Udell 3
+
+In 2010 all ECB publications
+feature a motif taken from the 500 banknote.
+
+NOTE: This Working Paper should not be reported as representing the views of the European Central Bank (ECB). The views expressed are those of the authors and do not necessarily reflect those of the ECB.
+
+This paper can be downloaded without charge from http://www.ecb.europa.eu or from the Social Science Research Network electronic library at http://ssrn.com/abstract_id=1610193.
+
+1 We thank Willem Buiter, Santiago Carbo-Valverde, Nicola Cetorelli, Nandini Gupta, Philip Hartmann, Florian Heider, Sebnem Kalemli-Ozcan, Steven Ongena, Marco Pagano, George Pennacchi, Richard Portes, Alberto Pozzolo, Peter Praet, JJorg Rocholl, and seminar participants at the Bank of Finland, Bocconi University, the European Central Bank, the Stockholm School of Economics, the University of Granada, the University of New South Wales, the ECB-EC conference "Financial integration and stability: TThe legacy of the crisis", the 13th Conference of the Swiss Society for Financial Market Research, the BCBS/CEPR?/J FI workshop "Systemic risk and financial regulation - causes and lessons from the crisis", and the Bundesbank/CFS workshop. "Interconnectedness of financial institutions: Microeconomic evidence, aggregate outcomes, and conseqquences for economic policy", for useful discussions, as well as Dana Schaffer and Francesca Fabbri for outstanding research assistance. 2 Corresponding author: European Central Bank, Financial Research Division, Kaiserstrasse 29, D-60311 Frankfurt, Germany, email: Alexander.Popov@ecb.europa.eu 3 Indiana University.
+
+© European Central Bank, 2010
+Address Kaiserstrasse 29 60311 Frankfurt am Main, Germany
+Postal address Postfach 16 03 19 60066 Frankfurt am Main, Germany
+Telephone +49 69 1344 0
+Internet http://www.ecb.europa.eu
+Fax +49 69 1344 6000
+All rights reserved.
+Any reproduction, publication and reprint in the form of a different publication, whether printed or produced electronically, in whole or in part, is permitted only with the explicit written authorisation of the ECB or the authors.
+Information on all of the papers published in the ECB Working Paper Series can be found on the ECB's website, http://www. ecb.europa.eu/pub/scientific/wps/date/ html/index.en.html
+ISSN 1725-2806 (online)
+
+CONTENTS
+
+Abstract
+
+4
+
+Non-technical summary
+
+5
+
+1 Introduction
+
+7
+
+2 Data
+
+11
+
+3 Empirical methodology and identification
+
+15
+
+3.1 Main empirical model
+
+15
+
+3.2 Isolating demand shocks
+
+18
+
+4 Empirical results
+
+20
+
+4.1 Bank credit application
+
+20
+
+4.2 Transmission of financial distress
+
+21
+
+4.3 International transmission of financial
+
+distress
+
+23
+
+4.4 Transmission of financial distress:
+
+foreign vs. domestic
+
+24
+
+4.5 Transmission of financial distress:
+
+differential effects
+
+25
+
+5 Conclusion
+
+27
+
+References
+
+29
+
+Tables and figures
+
+33
+
+Appendices
+
+46
+
+ECB
+3 Working Paper Series No 1203 June 2010
+
+Abstract We study the e ect of nancial distress in foreign parent banks on local SME nancing in 14 central and eastern European countries during the early stages of the 2007-2008 nancial crisis. We use survey data on applicant and non-applicant rms that enable us to disentangle e ects driven by shocks to the banking system from recession-driven demand shocks that may vary across lenders. We nd strong evidence that credit tightened in the relatively early stages of the crises caused by the following types of bank nancial distress: 1) low equity ratio; 2) low Tier 1 capital ratio; and 3) losses on nancial assets. We also nd that foreign banks transmit to Main Street a larger portion of similar nancial shocks than domestic banks. The observed decline in credit is greater among high-risk rms and rms with fewer tangible assets. JEL classi cation: E44, E51, F34, G21 Keywords: credit crunch, nancial crisis, bank lending channel, business lending
+ECB
+4 Working Paper Series No 1203 June 2010
+
+While evidence abounds of a bank-driven "capital crunch" in Europe during the recent financial crisis, the question of the relative contribution of foreign banks vs. domestic banks to this process has been left largely unanswered. In order to fill this void, we combine data on 141 banks from Bankscope with data on about 5,400 firms in 14 Central and Eastern European countries from the 2005 and 2008 waves of the Business Environment and Enterprise Performance Survey. While we do not have an exact match between a firm and a bank, we can still match firms and banks by locality of incorporation (operation). This allows us to empirically address two questions: 1) Did firms in localities populated by banks affected by the crisis face higher rejection rates than firms in localities populated by "healthy" banks? And 2) Did firms in localities populated by foreign banks affected by the crisis face higher rejection rates than firms in localities populated by similarly affected domestic banks? Importantly, in answering both questions, one has to account for the contamination of the estimates by demand shifts, as firms' financial positions also deteriorated during the recession, decreasing their appetite for bank loans. To that end, we employ data on applicant firms to control for the changing risk in the pool of borrowers. More importantly, recent research has shown that only 1/3 of constrained firms are firms that apply and are rejected, while 2/3 of constrained firms are firms that need a loan but are discouraged from applying. Therefore, even using the universe of loan application will not lead to the construction of proper proxies for credit constraints. To address the issue, we use survey data on firms that stayed out of the application process because they were discouraged by high interest rates, high collateral requirements, and high rejection rates, distinguishing them from firms which stayed out of the application process because they were in good financial health. We find strong evidence for the international transmission of financial distress. In particular, credit tightened in the relatively early stages of the crises as a result of: 1) low equity ratios; 2) low Tier 1 capital ratios; and 3) severe losses on financial assets. For example, we find that in foreign bankdominated markets if the average Tier 1 capital ratio of the parent of banks present in a particular locality decreases by 2 standard deviations, the probability of firms in that locality being constrained increased by about 55%. The estimates involving equity capital and losses on financial assets are of similar magnitude. Importantly, foreign banks are more likely to shrink their portfolio in response to financial distress, especially low Tier 1 capital ratios, the measure of financial distress that is most consistently associated with credit rationing. Finally, we find that financial distress is transmitted differently across firms and industries, in that firms that are informationally opaque and firms with fewer tangible assets suffer the most. The evidence in the paper points to several important policy conclusions. First, while the benefits of financial integration are well understood, we have also shown some of the costs associated with it,
+ECB
+5 Working Paper Series No 1203 June 2010
+
+especially at times of exceptional downside risk. Second, we find that various measures of bank capital depletion are associated with the transmission of distress, while, for example, exposure to problem loans and the size of the deposit base are not. This finding should inform the debate on the pro-cyclicality of capital requirements. The financial crisis of 2007-2008 has finally laid to rest the idea that the effect of large financial shocks can be confined locally. In this paper, we demonstrate empirically how the collapse of housing values in the U.S. has affected the financing conditions of, for example, Slovak firms through the deteriorating portfolios of Austrian, Belgian, and Italian banks, loaded with assets backed by those mortgages, and operating in Slovakia through their subsidiaries. While the credit crunch only started in the third quarter of 2007, banks kept tightening credit standards until as late as the fourth quarter of 2008, and most likely long after that. Thus, despite the coordinated actions of various national and supranational authorities, which kept the global financial system from collapsing after the fall of Lehman Brothers in September 2008, it is likely that the losses that the financial system endured have induced, and will continue to induce, a much larger impact on the real sector than the one estimated in this paper. The true extent of the credit crunch will only become clear with the availability of new, more comprehensive data.
+ECB
+6 Working Paper Series No 1203 June 2010
+
+1 Introduction
+The increasing integration of the European banking industry o ers the prospect of important gains in terms of e ciency and diversi cation, but it also creates potential risks. One such risk is associated with the possibility that a shock to a cross-border bank's capital will result in a reduction in lending to rms and consumers in an economic environment that is uncorrelated with the origins of that shock. Given the size and penetration of a number of west European and U.S. banks in central and eastern Europe, their nancial distress associated with the meltdown of subprime mortgages and securitized products in 2007 and 2008 and the run on banks by short-term creditors, counterparties, and borrowers concerned about the liquidity and solvency of the banking sector1, may have led to such a realization.2 The goal of this paper is to put this hypothesis to the test.
+We investigate one key mechanism through which foreign nancial distress may have been transmitted to local economic conditions, namely the supply of credit to small and medium enterprises. SMEs dominate the corporate landscape in central and eastern Europe, comprising up to 99% of all rms. Moreover, because of their opacity SMEs may be particularly vulnerable to contractions in the supply of credit. With this high dependency on the SME sector and with immature capital markets, banks are by far the main provider of funds for capital investment and expansion. An important feature of the central and eastern European banking market is its ownership structure. In particular, foreign ownership in the banking sector has grown so dramatically in the recent decade, that by 2008 foreign banks controlled around 80% of the assets in the the region's banking industry. The serious nancial distress of pan-European banks like Erste, KBC, and Societe Generale since 2007 stemming from economic circumstances unrelated to their operation in central and eastern Europe provides a natural experiment to study the channels through which the e ects of
+1See Brunnermeier (2009), Gorton (2009), and Ivashina and Scharfstein (2009) for a timeline of the 2007-2008 global nancial crisis. See Table 1 for developments concerning the nancial sector in the countries covered by this paper.
+2Signs of the negative e ects of the global nancial crisis on business rms in emerging Europe through the channel of bank lending were seen as early as the Fall of 2007. For instance, in October, the EBRD's chief economist Erik Berglof warned that "the crisis in the West will be a serious one which will last for some time and this means it will de nitely have an impact on our countries [...] due to the di culties and higher costs associated with obtaining credit" (EBRD (2007)). The euro zone Bank Lending Survey indicated that euro zone banks started tightening lending standards in Q3:2007 (ECB (2008)).
+ECB
+7 Working Paper Series No 1203 June 2010
+
+NB? H;H=C;F =LCMCM NB;N MN;LN?> CH NB? 42 MJL?;> NBLIOAB ION NB? AFI<;F ?=IHIGS .OL E?S >;N; =IG? @LIG ; MOLP?S I@ ; F;LA? ALIOJ I@ 2,$M CH ?G?LACHA $OLIJ? ;>GCHCMN?L?>
+CH JLCF  ;H> JLCF  3B? >;N; ;FFIQ OM NI >CL?=NFS I<M?LP? LGM QBIM? FI;H ;JJFC=;NCIH Q;M NOLH?> >IQH IP?L NB? =IOLM? I@ NB? JL?PCIOM S?;L IL QBC=B Q?L? >CM=IOL;A?> @LIG ;JJFSCHA @IL <;HE =L?>CN <S BCAB L;N?M ;H> OH@;PIL;<F? =IFF;N?L;F L?KOCL?G?HNM 6BCF? Q? >I HIN I<M?LP? NB? <;HE QBC=B AL;HN?>>?HC?> NB? FI;H Q? I<M?LP? NB? ?RN?HN I@ NB? IJ?L;NCIHM I@ ;FF <;HEM JL?M?HN CH NB? LG M =CNS I@ CH=ILJIL;NCIH !S OMCHA <;F;H=? MB??N >;N; IH NB? J;L?HN <;HEM @IL?CAH IL >IG?MNC= Q? =IHMNLO=N ;H CH>?R I@ H;H=C;F >CMNL?MM ;N NB? F?P?F I@ ?;=B FI=;FCNS CH  =IOHNLC?M CH NB? L?ACIH QBC=B Q? NB?H G;J CHNI >;N; IH FI;H L?D?=NCIH L;N?M 3B? H;F >;N; =IHMCMN I@   LGM CH   FI=;FCNC?M M?LP?> <S ; NIN;F I@  <;HEM IP?L NB?  J?LCI> 3B? G;DILCNS I@ FI=;FCNC?M BIQ?P?L ;L? M?LP?> <S DOMN ; B;H>@OF I@ <;HEM QCNB @IL?CAH IQH?LMBCJ I@ NBIM? P;LSCHA <S =IOHNLS ;H> FI=;FCNS 3BCM ;FFIQM OM NI ;HMQ?L NQI CGJILN;HN KO?MNCIHM  >C> <;HEM NL;HMGCN NB?CL H;H=C;F >CMNL?MM <S MBLCHECHA FI;HM NI <OMCH?MM =OMNIG?LM CMMO?> <S NB?CL <L;H=B?M ;H> MO<MC>C;LC?M CH NB? ?;LFS MN;A?M I@ NB? U =LCMCM ;H>  >C> @IL?CAH <;HEM NL;HMGCN NI NB? =ILJIL;N? M?=NIL ; F;LA?L MB;L? I@ NB?CL L?MJ?=NCP? H;H=C;F NLIO<F?M NB;H >IG?MNC= <;HEM
+3B? =F;MMC= JLI<F?G QCNB C>?HNC@SCHA ; =L?>CN =LOH=B CM NB;N LGM >?G;H> MBC@NM >OLCHA ; =L?>CN =LOH=B @IFFIQCHA NB? >?N?LCIL;NCIH I@ LGM <;F;H=? MB??NM 3BCM QIOF> HIN <? ;H CMMO? C@ Q? Q?L? MNO>SCHA NB? =LIMM<IL>?L NL;HMGCMMCIH I@ H;H=C;F >CMNL?MM CHNI ;H ?=IHIGC= ;L?; CHMOF;N?> @LIG NB;N >CMNL?MM NBLIOAB ;FF INB?L =B;HH?FM <ON NB? <;HE F?H>CHA =B;HH?F M NB? MO<JLCG? GILNA;A? =LCMCM Q;M ;MMI=C;N?> MCH=? CNM P?LS <?ACHHCHA QCNB NB? ?RJ?=N;NCIHM I@ ; AFI<;F L?=?MMCIH NB? G?;MOL?> ??=N I@ <;HE FI;H MOJJFS MBI=EM QCFF FCE?FS <? =IHN;GCH;N?> <S >?G;H> MBC@NM 2IG? MNO>C?M NB;N C>?HNC@S >?G;H> OM? NB? >?=FCH? CH FI;H ;JJFC=;NCIHM ;=LIMM >C?L?HNC;FFS ;?=N?> F?H>?LM NI ;LAO? NB;N NB?L? B;P?H N <??H P;LC;NCIHM CH NB? >?=L?;M? CH >?G;H> ;=LIMM F?H>?LM .H? JLI<F?G QCNB NB;N C>?HNC=;NCIH ;JJLI;=B G;S <? FCGCN?> >;N; ;P;CF;<CFCNS IH FI;H ;JJFC=;NCIHM 'IQ?P?L ?P?H QB?H IH? I<M?LP?M NB? OHCP?LM? I@ FI;H ;JJFC=;NCIHM ;JJFC=;HN LGM =IOF> <? ; MSMN?G;NC=;FFS NLOH=N;N?> MO<M;GJF? I@ ;FF LGM MIG? LGM >I HIN ;JJFS <?=;OM? NB?S >I HIN H??> =L?>CN QBCF? INB?LM >I HIN ;JJFS <?=;OM? NB?S ;L? >CM=IOL;A?> -IN ;==IOHNCHA @IL >CM=IOL;A?> LGM L?MOFNM CH
+,;8 DH8FG<BA <F 8FC86<4??L E8?8I4AG <A G;8 6BAG8KG B9 G;8 2.<8AA4 <A<G<4G<I8 HA78E J;<6; G;8 @4=BE 54A>F 46G<I8 <A G;8 E8:<BA 6B@@<GG87 GB >88C G;8<E 8KCBFHE8 GB HA6;4A:87 +88 8EE@4AA 4A7 %<;4?=8>  9BE 78G4<?F
+ECB
+8 Working Paper Series No 1203 June 2010
+
+; JIIL JLIRS @IL =L?>CN =IHMNL;CHNM ?MJ?=C;FFS CH NB? L?ACIH I@ =?HNL;F ;H> ?;MN?LH $OLIJ? QB?L? L?=?HN MNO>C?M !LIQH .HA?H; /IJIP ;H> 7?MCH  B;P? MBIQH NB;N NB? MB;L? I@ LGM >CM=IOL;A?> @LIG ;JJFSCHA CM OJ NI NQC=? ;M F;LA? ;M NB? MB;L? I@ LGM QBC=B ;JJFC?> ;H> B;> NB?CL FI;H ;JJFC=;NCIH L?D?=N?> 3B?H CN =IOF> Q?FF <? NB;N @IL <;HEM H?A;NCP?FS ;?=N?> <S NB? =LCMCM CN CM NB? H;H=C;FFS B?;FNBS <ILLIQ?LM NB;N ;L? M?F?=NCHA NB?GM?FP?M ION I@ NB? ;JJFC=;NCIH JLI=?MM LGM NB;N >I Q?FF >OLCHA ; L?=?MMCIH QBCF? @IL INB?L <;HEM CN CM NB? Q?;E LGM NB;N >I MI >CM=IOL;A?> <S H?QM I@ ; =IHNL;=NCIH CH F?H>CHA 3BOM ;N >C?L?HN NSJ?M I@ <;HEM HIH;JJFC=;HN LGM G;S B;P? MSMN?G;NC=;FFS >C?L?HN L?;MIHM @IL M?F?=NCHA NB?GM?FP?M ION I@ NB? ;JJFC=;NCIH JLI=?MM =IH@IOH>CHA C>?HNC=;NCIH ;H> G;ECHA CN >C=OFN NI M?J;L;N? NB? <;HE F?H>CHA @LIG NB? <;F;H=? MB??N =B;HH?F
+6? IP?L=IG? NBCM I<MN;=F? <S ?GJFISCHA I<M?LP;<F? MOLP?S CH@ILG;NCIH IH LGM NB;N =BIIM? NI M?F?=N NB?GM?FP?M ION I@ NB? <;HE =L?>CN ;JJFC=;NCIH JLI=?MM <? CN <?=;OM? NB?S Q?L? >CM=IOL;A?> IL <?=;OM? NB?S >I HIN H??> =L?>CN 3BOM Q? ;L? ;<F? NI ;==IOHN HIN DOMN @IL NB? >?=L?;M? CH LGM >?G;H> <ON ;FMI @IL NB?  I@ LGM NB;N ;==IOHN @IL NB? >?=L?;M? CH >?G;H> 6BCF? NB?L? CM ;FL?;>S ?RN?HMCP? ?PC>?H=? IH NB? L?;F ??=NM I@ NBCM H;H=C;F =LCMCM  IOL J;J?L CM NB? IHFS IH? Q? EHIQ I@ QBC=B MCGOFN;H?IOMFS  MNO>C?M NB? CHN?LH;NCIH;F NL;HMGCMMCIH I@ H;H=C;F >CMNL?MM  ;==IOHNM @IL NB? =B;HA?M CH NB? F?P?F ;H> =IGJIMCNCIH I@ FI;H >?G;H> ;H>  CM ;<F? NI =IHMNLO=N ; JLIRS @IL =L?>CN =IHMNL;CHN <;M?> IH >CM=IOL;A?G?HN ;M Q?FF ;M IH ;=NO;F L?D?=NCIH M MO=B IOL J;J?L ;>>M NI ; P?LS M=;L=? FCN?L;NOL? ?GJFISCHA >;N; IH NB? M?F?=NCIH JLI=?MM CHPIFP?> CH NB? AL;HNCHA I@ <OMCH?MM FI;HM
+3BCM J;J?L =IHLGM NB? BSJINB?MCM NB;N NB? =IHNL;=NCIH I@ <;HEM <;F;H=? MB??NM =;OM?> <S FIMM?M IH H;H=C;F ;MM?NM ;H> NB? >?N?LCIL;NCIH I@ NB?CL ?KOCNS JIMCNCIHM Q;M NL;HMGCNN?> =LIMM<IL>?L NI =?HNL;F ;H> ?;MN?LH $OLIJ? CH NB? L?F;NCP?FS ?;LFS MN;A?M I@ NB?  =LCMCM (H J;LNC=OF;L Q? H> ; BCAB?L JLI<;<CFCNS I@ LGM <?CHA =L?>CN =IHMNL;CH?> CH FI=;FCNC?M M?LP?> <S @IL?CAH <;HEM QBIM? J;L?HNM B;>  ; FIQ L;NCI I@ ?KOCNS NI NIN;F ;MM?NM  ; FIQ 3C?L  =;JCN;F L;NCI ;H>  BCAB FIMM?M IH H;H=C;F ;MM?NM CH=FO>CHA !2M ;H> ,!2M 3B? E?S L?MOFNM BIF> <INB QB?H Q?
+8 44F 4A7 I4A BE8A  H4A:  !I4F;<A4 4A7 +6;4E9FG8<A  "<@8A8F 'A:8A4 (8L7EB 4A7 +4HE<A4  (HE< *B6;B? 4A7 +G88A  +4AGBF  4A7 ,BA: 4A7 /8<  4?? CEBI<78 8I<78A68 BA G;8 6E87<G 6EHA6; 4FFB6<4G87 J<G; G;8  A4A6<4? 6E<F<F
+,;8 I8EL 98J FGH7<8F >ABJA GB HF G;4G 7B FB 4E8 8EDH8<EB  ;4>E4I4EGL 4A7 0<?@4M8E  4A7 'A:8A4 4A7 (BCBI  
+!A<G<4? 8I<78A68 <A7<64G8F G;4G ;<:; F;4E8 B9 @BEG:4:8 ?8A7<A: GB GBG4? ?8A7<A: <F 4?FB 4FFB6<4G87 J<G; GE4AF@<FF<BA
+ECB
+9 Working Paper Series No 1203 June 2010
+
+;MMOG? ?KO;F ;==?MM I@ ?;=B LG NI ;FF <;HEM JL?M?HN CH NB? LG M FI=;FCNS IL QB?H Q? Q?CAB ;==?MM <S NB? <L;H=B J?H?NL;NCIH I@ ?;=B <;HE %IL ?R;GJF? Q? H> NB;N CH @IL?CAH>IGCH;N?> G;LE?NM ; NQIMN;H>;L> >?PC;NCIH >?N?LCIL;NCIH CH NB? L?MJ?=NCP? JLIRS @IL H;H=C;F >CMNL?MM L?MOFNM CH ; <?NQ??H  ;H>  BCAB?L JLI<;<CFCNS I@ L?D?=NCIH @;=?> <S ;H C>?HNC=;F LG 6? H> NB;N @IL?CAH <;HEM ;L? GIL? FCE?FS NI MBLCHE NB?CL JILN@IFCI CH L?MJIHM? NI H;H=C;F >CMNL?MM ?MJ?=C;FFS FIQ 3C?L  =;JCN;F L;NCIM NB? G?;MOL? I@ H;H=C;F >CMNL?MM NB;N CM GIMN =IHMCMN?HNFS ;MMI=C;N?> QCNB =L?>CN L;NCIHCHA %CH;FFS Q? H> NB;N H;H=C;F >CMNL?MM CM NL;HMGCNN?> >C?L?HNFS ;=LIMM LGM ;H> CH>OMNLC?M CH NB;N LGM NB;N ;L? BCABLCME ;H> LGM QCNB @?Q?L N;HAC<F? ;MM?NM MO?L NB? GIMN
+.OL J;J?L L?F;N?M NI ; HOG<?L I@ MNO>C?M NB;N B;P? ;CG?> ;N C>?HNC@SCHA NB? NL;HMGCMMCIH I@ MBI=EM @LIG <;HEM <;F;H=? MB??NM NI F?H>CHA ;=NCPCNS CH P;LCIOM ?=IHIGC= =CL=OGMN;H=?M 3B? <;HE F?H>CHA =B;HH?F B;M <??H MNO>C?> ?RN?HMCP?FS ?A *;MBS;J ;H> 2N?CH  ;H> <;HEM B;P? <??H @IOH> NI L?FS B?;PCFS IH NB? OM? I@ CHN?LH;F =;JCN;F G;LE?NM CH IL>?L NI >;GJ?H >IG?MNC= FCKOC>CNS MBI=EM ?A 2N?CH  'IOMNIH );G?M ;H> ,;L=OM  3B? 42 =L?>CN =LOH=B CH  MJ;QH?> ; F;LA? FCN?L;NOL? NB;N CHP?MNCA;N?> CNM =;OM?M ;H> CNM ??=NM ?A !?LH;HE? ;H> +IQH  !?LA?L ;H> 4>?FF  /??E ;H> 1IM?HAL?H  6;AMN?L  ';H=I=E ;H> 6CF=IR  !;HECHA =LCM?M ;H> FCKOC>CNS MBI=EM ?FM?QB?L? CH NB? QILF> MCGCF;LFS A?H?L;N?> =IHMC>?L;<F? ;=;>?GC= ;NN?HNCIH ?A 6II  *;HA ;H> 2NOFT  ';S;MBC ;H> /L?M=INN  *BQ;D; ;H> ,C;H  /;L;PCMCHC  /??E ;H> 1IM?HAL?H  Q?L? IH? I@ NB? LMN NI C>?HNC@S NB? CHN?LH;NCIH;F NL;HMGCMMCIH I@ H;H=C;F MBI=EM QB?H NB?S CHP?MNCA;N?> BIQ NB? =IFF;JM? I@ ;MM?N JLC=?M CH );J;H >OLCHA NB? ?;LFS M ;?=N?> NB? IJ?L;NCIHM I@ );J;H?M? <;HE MO<MC>C;LC?M ;<LI;> (H J;LNC=OF;L NB?S MBIQ NB;N NB? >?=FCH? CH NB? J;L?HNM LCME<;M?> =;JCN;F L;NCI NL;HMF;N?> CHNI ; MCAHC=;HN >?=FCH? CH NIN;F FI;HM <S NB? 42 MO<MC>C;LC?M "B;P; ;H> /OLH;H;H>;G  ;H> 2=BH;<F  OM? NB? ?RIA?HIOM MBI=E JLIPC>?> <S NB? 1OMMC;H =LCMCM I@  NI MNO>S NB? ??=N IH F?H>CHA NI 42 ;H> /?LOPC;H <ILLIQ?LM L?MJ?=NCP?FS "?NIL?FFC ;H> &IF><?LA  MBIQ NB;N NB? ?RCMN?H=? I@ CHN?LH;F =;JCN;F G;LE?NM QCNB @IL?CAH <;HE ;FC;N?M =IHNLC<ON?M NI ;H CHN?LH;NCIH;F JLIJ;A;NCIH I@ >IG?MNC= FCKOC>CNS MBI=EM NI F?H>CHA <S ;FC;N?> <;HEM ;<LI;> (H NB? =IHN?RN I@ NB? H;H=C;F =LCMCM I@  (P;MBCH; ;H> 2=B;L@MN?CH  >I=OG?HN NB;N H?Q FI;HM NI F;LA?
+B9 A4A6<4? 7<FGE8FF 5HG 7H8 GB G;8 @4AL @<FF<A: 74G4 <A 4A>F6BC8 J8 7B ABG E8CBEG G;8F8 A7<A:F
+ECB
+10 Working Paper Series No 1203 June 2010
+
+borrowers declined by 79% by the end of 2008 relative to the peak of the credit boom (Q2:2007). They analyze the e ect that the failure of Lehman Brothers had on the syndicated loan market to identify the reduction in new lending. Jimenez, Ongena, Peydro, and Saurina (2009) use the universe of bank loans by Spanish banks to identify separately the bank lending channel and the balance sheet channel, and nd that they dampen each other: more liquid rms are less vulnerable to the contraction of bank lending, and if banks have ample liquidity, the balance sheet channel partially shuts down. Finally, Puri, Rocholl, and Ste en (2009) test the e ect of deteriorating balance sheets of U.S. banks on lending to business rms in Germany. While they account for the shift in rms' loan demand, they do not account for the variation across lenders in the change in the composition of rms that select themselves out of the application process.
+The paper proceeds as follows. Section 2 presents the data. Section 3 describes the empirical methodology and the identi cation strategy. Section 4 presents the empirical results. Section 5 concludes with the main ndings of the paper.
+2 Data
+The data for our analysis come from three main sources. The core rm level data come from the 2008 version of the Business Environment and Enterprise Performance Survey (BEEPS), administered jointly by the World Bank and the European Bank for Reconstruction and Development.7 The survey were carried out between March 10th and April 20th 2008 among 11; 668 rms from 30 countries in central and eastern Europe and the former Soviet Union. The survey response rate was 36:9%. Surveyees who declined to participate or were unavailable for interviews accounted for 38:3% of the original target group. Firms that were ineligible due to the necessity to ful ll industry quotas and rm size quotas accounted for the remainder. We narrowed that sample down to the countries that were most relevant in terms of foreign bank penetration. We complement this data with analogical information on rms operating in the same countries and localities derived from the 2005 version of the survey. The nal sample consists of 5; 380 rms in 14 countries: Albania, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Macedonia, Montenegro,
+7The dataset has recently started being used in published work, notably in Brown, Japelli, and Pagano (2009).
+ECB
+11 Working Paper Series No 1203 June 2010
+
+/IF;H> 1IG;HC; 2FIP;EC; ;H> 2FIP?HC; 3B? G;CH JOLJIM? I@ NB? MOLP?S CM NI I<N;CH CH@ILG;NCIH @LIG LGM ;<ION NB?CL ?RJ?LC?H=? QCNB
+H;H=C;F ;H> F?A;F =IHMNL;CHNM ;M Q?FF ;M AIP?LHG?HN =ILLOJNCIH (H ;>>CNCIH BIQ?P?L !$$/2 ;FMI CH=FO>?> KO?MNCIHM ;<ION LG IQH?LMBCJ MNLO=NOL? M?=NIL I@ IJ?L;NCIH CH>OMNLS MNLO=NOL? ?RJILN ;=NCPCNC?M OM? I@ ?RN?LH;F ;O>CNCHA M?LPC=?M MO<MC>C?M L?=?CP?> @LIG =?HNL;F ;H> FI=;F AIP?LHG?HNM ?N= 1?MJIH>?HN LGM =IG? @LIG  >C?L?HN M?=NILM =IHMNLO=NCIH G;HO@;=NOLCHA  MO<M?=NILM NL;HMJILN QBIF?M;F? ;H> L?N;CF (3 ;H> BIN?FM ;H> L?MN;OL;HNM 3B? HOG<?L I@ LGM =IP?L?> CM LIOABFS JLIJILNCIH;F NI NB? HOG<?L I@ LGM CH NB? =IOHNLS L;HACHA @LIG  CH F<;HC; NI  CH 1IG;HC; 3B? MOLP?S NLC?> NI ;=BC?P? L?JL?M?HN;NCP?H?MM CH N?LGM I@ NB? MCT? I@ LGM CN MOLP?S?> <?NQ??H NQI NBCL>M ;H> HCH? N?HNBM I@ NB? LGM MOLP?S?> ;L? MG;FF F?MM NB;H  QILE?LM ;H> ;LIOH>  I@ NB? LGM MOLP?S?> ;L? F;LA? GIL? NB;H  QILE?LM 3B? MOLP?S ;FMI ;CG?> NI MNLCE? ; <;F;H=? ;GIHA >IG?MNC= JLCP;N? MN;N? IQH?> ;H> @IL?CAH IQH?> LGM 3;<F?  JLIPC>?M NB? MOGG;LS MN;NCMNC=M IH NB? HOG<?L I@ LGM ;H> NB?CL MCT? >CMNLC<ONCIH <S =IOHNLS
+%IL NB? JOLJIM? I@ ?MNCG;NCHA NB? ??=N I@ NB? H;H=C;F =LCMCM IH <OMCH?MM F?H>CHA Q? @I=OM IH NB? CH@ILG;NCIH IH =L?>CN =IHMNL;CHNM @;=?> <S NB? LGM CH NB? J;MN M=;F S?;L 0O?MNCIH * ;MEM #C> NB? ?MN;<FCMBG?HN ;JJFS @IL ;HS FI;HM IL FCH?M I@ =L?>CN CH M=;F S?;L  %IL LGM NB;N ;HMQ?L?> -I NI * 0O?MNCIH * MO<M?KO?HNFS ;MEM 6B;N Q;M NB? G;CH L?;MIH NB? ?MN;<FCMBG?HN >C> HIN ;JJFS @IL ;HS FCH? I@ =L?>CN IL FI;H CH M=;F S?;L  %IL LGM NB;N ;HMQ?L?> 7?M NI * 0O?MNCIH *; MO<M?KO?HNFS ;MEM (H M=;F S?;L  >C> NBCM ?MN;<FCMBG?HN ;JJFS @IL ;HS H?Q FI;HM IL H?Q =L?>CN FCH?M NB;N Q?L? L?D?=N?> %CLGM NB;N ;HMQ?L?> -I H??> @IL ; FI;H NI * Q?L? =F;MMC?> ;M LGM NB;N >I HIN >?MCL? <;HE =L?>CN %CLGM NB;N ;HMQ?L?> 7?M NI *; IL (HN?L?MN L;N?M ;L? HIN @;PIL;<F? "IFF;N?L;F L?KOCL?G?HNM ;L? NII BCAB 2CT? I@ FI;H ;H> G;NOLCNS ;L? CHMO=C?HN IL #C> HIN NBCHE CN QIOF> <? ;JJLIP?> NI * Q?L? =F;MMC?> ;M =IHMNL;CH?> 3B? F;NN?L =F;MMC=;NCIH CM CH FCH? QCNB NB? OHI=C;F >?HCNCIH
++8E5<4 BFA<4 8?4EHF 4A7 ->E4<A8 J8E8 8K6?H787 7H8 GB G;8<E ?BJ 78:E88 B9 <AIB?I8@8AG <A G;8 - <AG8:E4G<BA CEB68FF
++88 ;GGC JJJ85E76B@ 6BHAGEL F86GBE 86BAB FHEI8LF 588CF;G@ 9BE 9HEG;8E 78G4<?87 E8CBEGF BA G;8 E8CE8F8A G4G<I8A8FF B9 G;8 FHEI8L
+<F64? L84E  E898EF GB G;8 64?8A78E L84E  BJ8I8E 9BE G4K CHECBF8F <A @BFG B9 G;8 6BHAGE<8F <A G;8 F4@C?8 E@F 64A 6;BBF8 GB 8KG8A7 <G GB %4E6;   J;<6; <F CE86<F8?L J;L G;8 +HEI8L J4F 47@<A<FG8E87 <A %4E6;CE<?  <I8A G;4G F<:AF B9 6E87<G 6EHA6; FG4EG87 8@8E:<A: E<:;G 49G8E H:HFG   G;8 74G4 :<I8F HF 4G ?84FG GJB 4A7 4G @BFG G;E88 DH4EG8EF B9 6E87<G 6EHA6; CBG8AG<4??L 8KC8E<8A687 5L E@F
+ECB
+12 Working Paper Series No 1203 June 2010
+
+<S NB? 42 %?>?L;F 1?M?LP? I@ ; =L?>CN =LOH=B C? ; MCGOFN;H?IOM CH=L?;M? CH NB? JLC=? ;H> >?=L?;M? CH NB? ;P;CF;<CFCNS I@ =L?>CN 3BCM MNL;N?AS I@ ALIOJCHA LGM NB;N Q?L? NOLH?> >IQH ;H> LGM NB;N Q?L? >CM=IOL;A?> @LIG ;JJFSCHA CM ;FMI ?GJFIS?> CH "IR ;H> );JJ?FFC  ;H> CM MN;H>;L> CH MNO>C?M NB;N L?FS IH >?N;CF?> KO?MNCIHH;CL?M FMI CN CM =LO=C;F ACP?H IOL ?GJCLC=;F MNL;N?AS NI M?J;L;N? NB? LGM NB;N >C> HIN ;JJFS @IL =L?>CN <?=;OM? NB?S >C>H N H??> CN @LIG NBIM? NB;N >C> HIN ;JJFS <?=;OM? NB?S Q?L? >CM=IOL;A?> 3;<F?  JL?M?HNM MOGG;LS <S =IOHNLS I@ NB? MB;L?M I@ LGM CH H??> I@ <;HE FI;H ;H> I@ =IHMNL;CH?> LGM JJ?H>CR  ?RJF;CHM NB? =IHMNLO=NCIH I@ ;FF LGF?P?F P;LC;<F?M CH NB? >;N;
+(H ;>>CNCIH NI NB? CH@ILG;NCIH >?M=LC<?> ;<IP? !$$/2 =IHN;CHM CH@ILG;NCIH IH NB? FI=;FCNS I@ NB? IJ?L;NCIH I@ ?;=B LG NIN;F I@   FI=;FCNC?M ;L? JL?M?HN CH NB? >;N; @IL ;H ;P?L;A? I@  LGM J?L FI=;FCNS 3B;N A?IAL;JBC= CH@ILG;NCIH Q;M NB?H G;N=B?> QCNB >;N; IH <;HE JL?M?H=? =IGCHA @LIG NB? =?HNL;F <;HEM I@ NB?  =IOHNLC?M CHPIFP?> CH NB? MNO>S %IL NB? M;E? I@ G;H;A? ;<CFCNS Q? H;LLIQ?> IOL @I=OM NI NB? <;HEM NB;N =IGJLCM? ;N F?;MN  I@ NB? <;HECHA M?=NIL ;MM?NM CH ?;=B =IOHNLS 3BCM ACP?M OM ; L;HA? I@ <?NQ??H  <;HEM CH $MNIHC; ;H>  <;HEM CH !OFA;LC; &CP?H NBCM =LCN?LCIH Q? J?L@ILG?> ;H CHN?LH?N M?;L=B I@ NB? FI=;FCNC?M CH QBC=B ?;=B I@ NB? <;HEM I@ CHN?L?MN B;P? <L;H=B?M ;M Q?FF ;M NB? NIN;F HOG<?L I@ <L;H=B?M CH ?;=B FI=;FCNS 3B? M?;L=B >?N?L GCH?> NB;N NB?   FI=;FCNC?M Q?L? M?LP?> <S ; NIN;F I@  <;HEM .ON I@ NBIM?  ;L? >IG?MNC= <;HEM ;H>  ;L? <L;H=B?M IL MO<MC>C;LC?M I@  @IL?CAH <;HEM 3B?L? CM =IHMC>?L;<F? P;LC;NCIH CH @IL?CAH <;HE J?H?NL;NCIH CH NB? M;GJF? CH  @IL?CAH IQH?LMBCJ I@ <;HE M?=NIL ;MM?NM L;HA?M @LIG  CH 2FIP?HC; NI  CH 2FIP;EC;
+-?RN Q? OM?> !;HEM=IJ? NI ?RNL;=N <;F;H=? MB??N CH@ILG;NCIH IH NBIM?  <;HEM 6? =IFF?=N?> >;N; @LIG  NI  CH IL>?L NI ?P;FO;N? BIQ <INB =OLL?HN ;H> ?RJIMN H;H=C;F J?L@ILG;H=? CM ;MMI=C;N?> QCNB ; JIN?HNC;F L?>O=NCIH CH =L?>CN 6? =BIM? IOL JIN?HNC;F ?RJF;H;NILS P;LC;<F?M CH NB? =IHN?RN I@ NB? G;CH CMMO?M MOLLIOH>CHA NB? H;H=C;F =LCMCM I@  3B? <OLMNCHA I@ NB? BIOMCHA <O<<F? @IL=?> <;HEM NI QLCN? >IQH M?P?L;F BOH>L?> <CFFCIH >IFF;LM CH <;> FI;HM =;OM?>
+,;8 BE<:<A 64A 58 GE4687 GB 8EA4A>8 4A7 $BJA  J;B 78A8 4 6E87<G 6EHA6; 4F 4 13 F<:A<64AG ?89GJ4E7 F;<9G <A G;8 FHCC?L 6HEI8 9BE ?B4AF ;B?7<A: 6BAFG4AG 5BG; G;8 F498 E84? <AG8E8FG E4G8 4A7 G;8 DH4?<GL B9 CBG8AG<4? 5BEEBJ8EF
+,;8 @4G6;<A: J4F @478 CBFF<5?8 49G8E 4A 8KG8AF<I8 E8F84E6; B9 G;8 J85 C4:8F B9 4?? 54A>F <AIB?I87 !A DH<G8 4 98J 64F8F <A9BE@4G<BA J4F BA?L 4I4<?45?8 <A G;8 E8FC86G<I8 A4G<BA4? ?4A:H4:8
+ECB
+13 Working Paper Series No 1203 June 2010
+
+<S GILNA;A? >?FCHKO?H=C?M N NB? M;G? NCG? NB? MNI=E G;LE?N =;JCN;FCT;NCIH I@ NB? G;DIL <;HEM >?=FCH?> <S GIL? NB;H NQC=? NB;N ;GIOHN 3B? NIN;F FIMM IH H;H=C;F ;MM?NM AFI<;FFS CM ?MNCG;N?> CH NB? H?CAB<ILBII> I@ NLCFFCIHM I@ >IFF;LM "?HNL;F <;HEM ;LIOH> NB? QILF> JOGJ?> BOH>L?>M I@ <CFFCIHM I@ >IFF;LM CH MBILNN?LG FCKOC>CNS ;FIHAMC>? L?>O=CHA >CM=IOHN L;N?M ;N ;H OHJL?=?>?HN?> MJ??> CH IL>?L NI JLIJ OJ CFFCKOC> ;H> FCE?FS CHMIFP?HN <;HEM !LOHH?LG?C?L 
+'?H=? Q? @I=OM?> JLCG;LCFS IH <;HEM JLIN =;JCN;F L;NCIM 3C?L  ;H> NIN;F GILNA;A? F?H>CHA ;M ; MB;L? I@ NB? FI;H JILN@IFCI =OMNIG?L F?H>CHA ;M ; MB;L? I@ NB? FI;H JILN@IFCI JLI<F?G FI;HM ?KOCNS L;NCIM GIH?S G;LE?N @OH>CHA FIMM IH H;H=C;F ;MM?NM ;H> FIMM IH ;P;CF;<F? @IL M;F? M?=OLCNC?M (H NB? =;M? I@ @IL?CAH IQH?LMBCJ Q? @I=OM?> IH NB? H;H=C;F JIMCNCIH I@ NB? J;L?HN <;HE CH IL>?L NI MNO>S @IL ?R;GJF? BIQ NB? CHP?MNG?HN ;FFI=;NCIH I@ 4HC"L?>CN &LIOJ CHNI ,!2M ;H> NB? FIMM I@ =;JCN;F ;MMI=C;N?> QCNB NBCM ;FFI=;NCIH ;?=NM <OMCH?MM F?H>CHA <S CHN?LH;NCIH;F <L;H=B?M ;H> MO<MC>C;LC?M I@ 4HC"L?>CN 3;<F?  MOGG;LCT?M NB? G;CH P;LC;<F?M I@ CHN?L?MN QBC=B Q?L? OM?> CH NB? H;F ?GJCLC=;F N?MNM 3B?L? ;L? ;JJ;L?HN =LIMM=IOHNLS >C?L?H=?M  @IL ?R;GJF? CH  1IG;HC;H <;HEM B;> ; MIG?QB;N FIQ ;P?L;A? 3C?L  =;JCN;F L;NCI  =FIM? NI NB?  L?AOF;NILS L?KOCL?G?HN IQCHA NI NB? L?F;NCP? OH>?L=;JCN;FCT;NCIH I@ NB?CL J;L?HN @IL?CAH <;HEM QBCF? /IFCMB <;HEM B;> ;H ;P?L;A? 3C?L  =;JCN;F L;NCI I@  GIMNFS >O? NI NB? @;=N NB;N NB? F;LA?MN <;HE CH /IF;H> CM NB? Q?FF=;JCN;FCT?> >IG?MNC= <;HE /*. !;HE /IFMEC FMI NB? <;HEM JL?M?HN CH ,;=?>IHC; CH=OLL?> ;FGIMN HI FIMM?M IH H;H=C;F ;MM?NM CH  QBCF? CH  NB? J;L?HNM I@ NB? <;HEM JL?M?HN CH NB? "T?=B 1?JO<FC= B;> ;H ;P?L;A? L;NCI I@ A;CHM IH H;H=C;F ;MM?NM NI NIN;F ;MM?NM I@ 
+JJ?H>CR  CFFOMNL;N?M NB? >?AL?? I@ @IL?CAH <;HE J?H?NL;NCIH CH ?;=B =IOHNLS CH NB? M;GJF? "F?;LFS ; ALIOJ I@  Q?MN $OLIJ?;H ;H> 42 <;HEM =IHNLIFM NB? P;MN G;DILCNS I@ ;MM?NM CH NB? L?ACIH 3B?M? ;L? $LMN? &LIOJ 'SJI &LIOJ 1?C?CM?H ;H> 5IFEM<;HE  OMNLC; #?RC; ;H> *!" !?FACOG #;HME? /;HE #?HG;LE -IL>?; !;HE %CHF;H> 2I=C?N? &?H?L;F? %L;H=? !;S?LCM=B? +;H>?M<;HE ;H> "IGG?LT<;HE &?LG;HS FJB; !;HE $%& $OLI<;HE $GJILCEC !;HE -;NCIH;F !;HE I@ &L??=? ;H> /CL;?OM !;HE &L??=? (! (L?F;H> (HN?MM; 2;H /;IFI ;H> 4HC"L?>CN &LIOJ (N;FS (-& !;HE -?NB?LF;H>M 2Q?><;HE ;H> 2E;H>CH;PCME; $HMECF>; !;HE 2Q?>?H ;H> "CNC<;HE 42 3B?L? CM ;FMI MO<MN;HNC;F L?ACIH;F P;LC;NCIH CH NB? >?AL?? I@ J?H?NL;NCIH @IL
+ECB
+14 Working Paper Series No 1203 June 2010
+
+example, the Greek banks operate mostly in south-eastern Europe, the Scandinavian banks in the Baltic countries, and the Austrian banks in central Europe. In addition, there is one domestic "global" bank, the Hungarian OTP, as well as cross-border penetration by, for example, Parex Group - Latvia and Snoras Bank - Lithuania.
+
+3 Empirical methodology and identi cation
+3.1 Main empirical model
+We start by using the 2008 cross-section data on bank balance sheets, rm characteristics, and credit constraints to check for a "credit crunch" by estimating the following basic model:
+
+Yijkl = 1 Xijkl + 2 F inancejk + 3 Dk + 4 Dl + "ijkl
+
+(1)
+
+where Yijkl is a dummy variable equal to 1 if rm i in city j in country k in industry l is credit constrained in scal year 2007; Xijkl is a matrix of rm characteristics; F inancejk is the index of bank health in city j in country k; Dk is a matrix of country dummies; Dl is a matrix of industry dummies; and "ijkl is an idiosyncratic error term. The rm level characteristics control for observable rm-level heterogeneity. The two sets of dummy variables control for any unobserved market and industry variation. Essentially, they eliminate the contamination of the estimates by sectoral and macroeconomic circumstances, like growth opportunities, common to all rms in the same industry, or taxes, common to all rms in a particular country.
+Next, we pool the 2005 and 2008 samples in order to be able to conduct a proper pre-post analysis using both rms that were observed in 2007/2008 (the beginning of the nancial crisis) and in 2004/2005 (the peak of the credit cycle). We estimate the model
+
+Yijkt = 1 Xijkt + 2 F inancejk + 3 Dk + 4 Dt + "ijkl
+
+(2)
+
+That procedure is analogical to (1), with the exception that we include year xed e ects to account for the change in common macro factors between 2005 and 2008, and we exclude the
+
+ECB
+15 Working Paper Series No 1203 June 2010
+
+CH>OMNLS >OGGC?M <?=;OM? CH>OMNLC?M ;L? =F;MMC?> >C?L?HNFS CH NB? NQI MOLP?SM
+
+3B? G;CH J;L;G?N?L I@ CHN?L?MN CH <INB GI>?FM CM  QBC=B G?;MOL?M NB? ??=N I@ H;H=C;F
+
+>CMNL?MM I@ NB? <;HEM CH ?;=B FI=;FCNS IH =L?>CN ;==?MM <S LGM CH NB;N FI=;FCNS M FIQ?L P;FO?M I@
+
+  ;L? ;MMI=C;N?> QCNB <CAA?L <;HE >CMNL?MM Q? ?RJ?=N NB? MCAH I@  NI <? H?A;NCP? 6?
+
+=IHMNLO=N IOL <;HE >CMNL?MM CH>?R <S ;AAL?A;NCHA <;F;H=? MB??N CH@ILG;NCIH @LIG !;HEM=IJ? ;@N?L
+
+>?N?LGCHCHA QBC=B <;HEM Q?L? JL?M?HN CH NB;N FI=;FCNS ;H> NB? ILCACH;F IQH?LMBCJ I@ ?;=B <;HE
+
+CH NB;N FI=;FCNS 3B? OH>?LFSCHA ;MMOGJNCIH CH NB? ;<M?H=? I@ ; >CL?=N G;N=B I@ ?;=B FI;H NI NB?
+
+F?H>CHA <;HE ;H> I@ ?;=B L?D?=NCIH NI NB? L?D?=NCHA <;HE CM NB;N C@ LGM Q?L? AL;HN?>>?HC?> =L?>CN
+
+NB?H CN Q;M GIMN FCE?FS NB? L?MOFN I@ CHN?L;=NCIH QCNB <;HEM CH NB? LGM FI=;FCNS I@ CH=ILJIL;NCIH
+
+6? OM? NQI >C?L?HN Q?CABNCHA =LCN?LC; CH =IHMNLO=NCHA NB? CH>?R H;G?FS ACPCHA ?KO;F Q?CABN NI
+
+?;=B <;HE CH NB;N J;LNC=OF;L FI=;FCNS IL Q?CABNCHA ?;=B <;HE M H;H=C;F JIMCNCIH <S NB? HOG<?L I@
+
+<L;H=B?M CN B;M CH NB? FI=;FCNS
+
+'?L? CM ;H ?R;GJF? NI =F;LC@S NB? ;<IP? JLI=?>OL? 3B?L? ;L?  <;HEM CH $MNIHC; NB;N BIF> =FIM?
+
+NI  I@ NB? <;HECHA ;MM?NM CH NB? =IOHNLS 2Q?><;HE 2$! 2;GJI /;HE ;H> -IL>?; 3B?S ;L?
+
+MO<MC>C;LC?M I@ 2Q?><;HE  2Q?>?H 2$!  2Q?>?H #;HME? /;HE  #?HG;LE ;H> -IL>?;  %CHF;H>
+
+(H  NB?  J;L?HN <;HEM B;> 3C?L  =;JCN;F L;NCIM I@    ;H>  L?MJ?=NCP?FS "IHMC>?L
+
+NB? =CNS +CBOF; CH QBC=B IHFS 2Q?><;HE B;M <L;H=B?M 6? ;MMCAH +CBOF; ; 3C?L  =;JCN;F L;NCI I@
+
+ ;H> NB?H Q? G;N=B NB? CH>?R I@ H;H=C;F >CMNL?MM CH +CBOF; QCNB ;FF LGM JL?M?HN CH NB;N =CNS
+
+"IHMC>?L ;FN?LH;NCP?FS NB? =CNS I@ *OL?M;;L? CH QBC=B 2Q?><;HE 2$! ;H> -IL>?; ;L? JL?M?HN
+
+3B?S B;P?   ;H>  <L;H=B?M CH NB;N =CNS L?MJ?=NCP?FS "IHM?KO?HNFS CH NB? G;CH ;H;FSMCM QB?L?
+
+Q? ;MMCAH ?KO;F JLI<;<CFCNS I@ ?;=B LG CH NB;N =CNS >ICHA <OMCH?MM QCNB ?;=B <;HE JL?M?HN CH NB;N
+
+=CNS
+
+Q?
+
+;MMCAH
+
+;
+
+3C?L
+
+
+
+=;JCN;F
+
+L;NCI
+
+I@
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+QBC=B
+
+CM
+
+NB?H
+
+G;N=B?>
+
+NI
+
+;FF LGM FI=;N?> CH *OL?M;;L? H> CH NB? ?R?L=CM?M QB?L? Q? Q?CAB NB? JLI<;<CFCNS I@ ?;=B LG
+
+>ICHA <OMCH?MM QCNB ?;=B <;HE JL?M?HN CH *OL?M;;L? <S NB? HOG<?L I@ NB;N <;HE M <L;H=B?M CH NB;N FI=;FCNS Q? ;MMCAH ; 3C?L  =;JCN;F L;NCI I@           
+-IQ Q? =IG? NI NB? ?MNCG;NCIH I@ NB? CHN?LH;NCIH;F NL;HMGCMMCIH I@ H;H=C;F >CMNL?MM $KO;NCIHM
+
+ ;H>  MCGJFS N?MN @IL QB?NB?L <;HEM ;MM?N ;H> FCKOC>CNS JLI<F?GM ;?=N <OMCH?MM F?H>CHA
+(+  HF8F 4 +! 7<:<G 6?4FF<64G<BA J;<?8 (+  HF8F 4 +! 7<:<G 6?4FF<64G<BA 7B@<A4G87 5L @4AH946GHE<A:
+
+ECB
+16 Working Paper Series No 1203 June 2010
+
+<ON Q? ;FMI BSJINB?MCT? NB;N <;HEM QCNB ; @IL?CAH IQH?L ;L? GIL? FCE?FS NI >I MI NB;H >IG?MNC= <;HEM %IL ?R;GJF? C@ <;HELG L?F;NCIHMBCJM ;L? J;LNC=OF;LFS MNLIHA ;H> CGJILN;HN <;HEM G;S <? L?FO=N;HN NI L?>O=? =L?>CN NI NB?CL FIHANCG? >IG?MNC= =OMNIG?LM ;H> MBC@N GIL? I@ NB? MBI=E NI IP?LM?;M G;LE?NM /??E ;H> 1IM?HAL?H 
+3B?L? ;L? NQI Q;SM CH QBC=B Q? ;>>L?MM NBCM CMMO? %CLMN Q? ?MNCG;N?  ;H>  IH NB? MO<M;GJF? I@ FI=;FCNC?M QB?L? NB? G;DILCNS I@ NB? <;HECHA ;MM?NM ;L? =IHNLIFF?> <S <L;H=B?M IL MO< MC>C;LC?M I@ @IL?CAH <;HEM 3BCM ACP?M ;H ;HMQ?L NI NB? KO?MNCIH >I @IL?CAH <;HEM NL;HMGCN H;H=C;F >CMNL?MM 2?=IH> CH IL>?L NI MNO>S QB?NB?L @IL?CAH IL >IG?MNC= <;HEM NL;HMGCN ; F;LA?L MB;L? I@ NB?CL L?MJ?=NCP? H;H=C;F >CMNL?MM Q? ?MNCG;N? NB? @IFFIQCHA >C?L?H=?CH>C?L?H=?M MJ?=C=;NCIH
+                           
+QB?L?   CM ;H CH>C=;NIL ?KO;F NI  C@ NB? G;DILCNS I@ NIN;F <L;H=B?M CH =CNS  CH =IOHNLS  I@ <;HEM <?FIHA NI <L;H=B?M IL MO<MC>C;LC?M I@ @IL?CAH <;HEM 3B? JLCG;LS =IHNLIF ALIOJ B?L? CM ;FF LGM CH=ILJIL;N?> CH FI=;NCIHM QCNB FCNNF? @IL?CAH <;HE J?H?NL;NCIH -IQ  G?;MOL?M QB?NB?L @IL NB? M;G? >?AL?? I@ H;H=C;F >CMNL?MM @IL?CAH <;HEM NL;HMF;N? GIL? I@ CN CHNI FI;H ;JJFC=;NCIH L?D?=NCIHM "IHMCMN?HN QCNB IOL BSJINB?MCM Q? ?RJ?=N NB? MCAH I@  NI <? H?A;NCP?
+6BCF? CH IOL MJ?=C=;NCIHM MI @;L Q? ;L? =;J;<F? I@ ?MNCG;NCHA NB? ??=N I@ H;H=C;F >CMNL?MM H?N I@ CH>OMNLSQC>? ;H> =IOHNLSQC>? L?=?MMCIH >?P?FIJG?HNM NB;N ;L? =IGGIH NI ;FF LGM CH NB? L?MJ?=NCP? CH>OMNLS =IOHNLS NB?S >IH N ;FFIQ OM NI N?MN QB?NB?L H;H=C;F >CMNL?MM >C?L?HNC;FFS ;?=NM LGM ;H> IOL ?MNCG;N?M ;L? JLIH? NI =IHN;GCH;NCIH <S FI=;NCIHMJ?=C= OHI<M?LP;<F?M 1?A;L>CHA NB? LMN JICHN CN CM A?H?L;FFS JL?>C=N?> NB;N CH@ILG;NCIH;FFS IJ;KO? LGM ;H> LGM QCNB @?Q?L N;HAC<F? ;MM?NM ;L? GIL? FCE?FS NI <? MBON ION I@ =L?>CN G;LE?NM M?? @IL ?R;GJF? !?LA?L .@?E ;H> 2Q;LS  !?=E #?GCLAOV=*OHN ;H> ,;EMCGIPC=  ;H> !LIQH );JJ?FFC ;H> /;A;HI  1?A;L>CHA NB? M?=IH> IH? G;=LI?=IHIGC= =CL=OGMN;H=?M FCE? OH?GJFISG?HN OMO;FFS P;LS ;N NB? =CNS F?P?F ;H> MI IOL MJ?=C=;NCIH MI @;L QCFF <? =IHN;GCH;N?> <S NBCM P;LC;NCIH 3I ;>>L?MM <INB JICHNM Q? ?GJFIS IOL NBCL> ;H> H;F MJ?=C=;NCIH
+ECB
+17 Working Paper Series No 1203 June 2010
+
+Yijkl = 1 Xijkl + 2 F inancejk Zl + 3 Dl + 4 Djk + "ijkl
+
+(4)
+
+Now the location dummies in Djk absorb the e ect of locality-speci c unobservables. The interaction term containing the industry-level benchmark for information opacity and asset tangibility in Zl allows us to measure whether the potential e ect of the credit crunch is indeed strongest for those rms which theory predicts are most vulnerable to credit market shutdowns.
+Finally, we need to emphasize that throughout the paper, it is implicitly assumed that the e ect of bank nancial distress is localized and realized predominately by rms headquartered in the locality in which the bank has operations. All our empirical speci cations presume that rms borrow from banks located near their address of incorporation, which is identical to the approach in, for example, Gormley (2009). In general this is expected to hold as banks tend to derive market power ex ante from geographical proximity (e.g., Degryse and Ongena (2005)). Lending support to that conjecture, empirical work regarding lending relationships in di erent countries has demonstrated that the average distance between rms and banks is usually very small. For example, Petersen and Rajan (2002) nd that the median distance between a rm and its main bank in 1993 was only ve miles (eight kilometers).
+
+3.2 Isolating demand shocks
+It is a common challenge of studies that analyze the association between nancial distress and bank lending to isolate supply shocks satisfactorily. Namely, it is likely that not only does loan demand weaken for all rms in periods when bank capital declines, but the composition of rms that demand credit during recessions changes. The solutions to this problem vary in the literature. For example, Peek and Rosengren (1997) bypass this issue by claiming that the identi cation problem is rather weak in the case of the international transmission of nancial shocks into a recession-free environment. However, the nancial crisis of 2007-2008 was followed by one of the deepest global recessions in postwar history, and this recession was already being predicted as soon as the extent of the sub-prime mortgage meltdown became apparent in late summer 2007. Hence, as we observe the
+
+ECB
+18 Working Paper Series No 1203 June 2010
+
+LGM CH IOL M;GJF? CH F;N?  ;H> ?;LFS  CN CM =IH=?CP;<F? NB;N NB?S Q?L? ;FL?;>S <?B;PCHA CH ; Q;S =IHMCMN?HN QCNB ; AFI<;F L?=?MMCIH ?HPCLIHG?HN /OLC 1I=BIFF ;H> 2N??H  ;H> )CG?H?T .HA?H; /?S>LI ;H> 2;OLCH;  CH=ILJIL;N? >;N; IH FI;H ;JJFC=;NCIHM NI ;==IOHN @IL NB? ?RJFC=CN Q?;E?HCHA I@ NB? LG <;F;H=? MB??N =B;HH?F 'IQ?P?L NBCM MNL;N?AS >I?M HIN ;==IOHN @IL NB? =B;HACHA =IGJIMCNCIH ;=LIMM <OMCH?MM F?H>?LM I@ LGM NB;N >?G;H> <;HE =L?>CN ;M NB?M? MNO>C?M >I HIN I<M?LP? LGM QBC=B M?F?=N NB?GM?FP?M ION I@ NB? FI;H ;JJFC=;NCIH JLI=?MM >O? NI  Q?;E IQH >?G;H> @IL FI;HM IL NI  <?CHA >CM=IOL;A?> <S NB? >?N?LCIL;NCHA F?H>CHA ?HPCLIHG?HN -IN ;==IOHNCHA @IL NB;N ?MNCG;NCHA NB? NLO? ?RN?HN I@ NB? NL;HMGCMMCIH I@ H;H=C;F >CMNL?MM QCNB ; <C;M
+M Q? ?RJF;CH?> CH 2?=NCIH  Q? ?FCGCH;N? NB? =IHN;GCH;NCIH I@ NB? ?MNCG;N?M CH>O=?> <S  <S CH=ILJIL;NCHA >;N; IH >CM=IOL;A?> LGM CH NB? G?;MOL? I@ =L?>CN =IHMNL;CHN M @IL  Q? ?FCGCH;N? NB? ??=N I@ NB? <;F;H=? MB??N =B;HH?F <S CH=ILJIL;NCHA I<M?LP;<F? CH@ILG;NCIH IH LGM QBC=B >C> HIN ;JJFS @IL <;HE =L?>CN CH M=;F S?;L  <?=;OM? NB?S >C> HIN H??> IH? M?? 2?=NCIH  @IL NB? ?R;=N >?HCNCIH 6? ;JJFS '?=EG;H M  M?F?=NCIH JLI=?>OL? NI ?FCGCH;N? NB? <C;M ;LCMCHA @LIG NB? F?@NNLOH=;NCIH I@ NB? M;GJF? CH NB;N M?HM? 3BOM =L?>CN =IHMNL;CHN CM IHFS I<M?LP;<F? QB?H ; LG ;=NO;FFS ;JJFC?M @IL ; FI;H ;H> NB? LG IHFS >I?M MI C@ CN H??>M IH? IL CN M HIN >CM=IOL;A?> +?N NB? >OGGS P;LC;<F?  ?KO;FM  C@ NB? LG >?MCL?M JIMCNCP? <;HE =L?>CN ;H> ?KO;FM  INB?LQCM? 3B? P;FO? I@  CM CH NOLH >?N?LGCH?> <S NB? F;N?HN P;LC;<F?
+
+     
+
+
+
+QB?L?  =IHN;CHM LG ;H> FI=;NCIH P;LC;<F?M NB;N G;S ??=N NB? LG M R?> =IMNM ;H> =IHP?HC?H=? ;MMI=C;N?> QCNB OMCHA <;HE =L?>CN 3B? P;LC;<F?    C@    ;H>    INB?LQCM? 3B? ?LLIL  CM HILG;FFS >CMNLC<ON?> QCNB G?;H  ;H> P;LC;H=?  ,I>?FM  ;L? NB?H OJ>;N?> <S ;>>CHA NB? N?LG    NI NB? 1'2 QB?L?   CM NB? CHP?LM? I@ ,CFF M L;NCI '?=EG;H  ;H> QB?L?  B;M <??H ?MNCG;N?> IH ; M?N I@ P;LC;<F?M NB;N CM F;LA?L <S ;N F?;MN IH? P;LC;<F? NB?H NB? M?N I@ P;LC;<F?M CH    ;H>  L?MJ?=NCP?FS
+
+ECB
+19 Working Paper Series No 1203 June 2010
+
+4 Empirical results
+4.1 Bank credit application
+Before considering our main empirical model, we rst consider the bank credit application tests that we use for our Heckman selection correction. Table 5 presents the results from the rst stage probit regression. The probability of needing bank credit is higher for rms in more nancially distressed localities, in the sense of a low bank equity ratio and large losses on nancial assets. This implies that not accounting for that selection would bias the estimates of the transmission of
+nancial distress towards zero. If there is such transmission, then by making sure that it is not the case that the nancially strong rms are selecting themselves out of the application process in locations where banks are severely distressed, we will be measuring an even stronger e ect than when selection is not accounted for.
+The need for bank credit increases in the size of the rm, which is somewhat surprising as one would expect small rms to have a higher preference for bank credit. However, in a beginning-of-arecession environment it might be that small rms are better equipped to nance investment with cash ows than - potentially - more highly leveraged large rms. In addition, some of the size e ects may be picked by ownership and structural characteristics, as sole properitorships and stand-alone
+rms have a higher demand for loans. The probability of desiring credit is higher for exporters potentially due to their faster expansion, and for audited rms, which might simply imply that rms choose to be audited (i.e., they are willing to pay for transparency) when they plan to apply for bank credit.14 It may also be the case that audited rms have access to nancial statement lending which may be a cheaper lending technology. In all, these results justify our selection procedure:
+nancial distress not only (potentially) a ects business lending, but also the degree to which rms demand loans. Not accounting for this will introduce bias into the main estimates.
+14The results are broadly consistent with Ongena and Popov (2009) who apply a double selection technique to the BEEPS 2005 sample.
+ECB
+20 Working Paper Series No 1203 June 2010
+
+4.2 Transmission of nancial distress
+4.2.1 Nonparametric di erence-in-di erences estimates Table 6 gives a simple non-parametric illustration of the validity of our empirical strategy. We average the data on rejection rates across localities for the 2008 sample, and for two distinct criteria: a ected vs. non-a ected, and foreign bank-dominated vs. domestic bank-dominated. In determining which localities are a ected, we look at Tier 1 capital and de ne "a ected" as localities where the average Tier 1 capital ratio of banks present in that locality is in the bottom half of the distribution in 2008. Likewise, we de ne "foreign-bank dominated" as localities where more than half of the branches of all banks present in that localities are held by subsidiaries or branches of foreign banks. The table implies that our estimates depend on the di erential response of foreign vs. domestic banks to their respective nancial problems. In particular, average rejection rates across localities dominated by a ected vs. non-a ected banks are statistically identical if the banks involved are mostly domestic (42:1% vs. 38:9%). However, in localities populated predominantly by a ected foreign banks rejection rates were at 38:8%, while in localities populated predominantly by non-a ected foreign banks rejection rates were at 23:4%, and this di erence is signi cant at the 1% level. This result is the rst (albeit arguably imperfect) piece of evidence that foreign banks reacted to their respective nancial troubles by shrinking their loan portfolios relatively more.
+4.2.2 Cross-section results Table 7 reports the estimates of the e ect of parent banks' nancial distress on credit constraints faced by local rms for all rms present in BEEPS 2008. We report the results of the model in equation (1) alongside the results from the Heckman selection-corrected version of it in order to contrast the two approaches. The three main explanatory variables of interest are: the ratio of equity over total assets; the Tier 1 capital ratio; and the gain on nancial assets over total assets.15 We rst report the results from the model in which each bank is given equal weight in each locality where the bank is present (Panel A). As expected, all else equal, small rms are more
+15The e ect of other variables, like the ratio of problem loans to total loans, pro t, money market funding, and gain on available for sales securities was tested, but the results were insigni cant.
+ECB
+21 Working Paper Series No 1203 June 2010
+
+=L?>CN =IHMNL;CH?> JIN?HNC;FFS CH>C=;NCHA FIQ?L ;<CFCNS NI N;J ;FN?LH;NCP? =;JCN;F G;LE?NM ;O>CN?> LGM ;L? F?MM =IHMNL;CH?> CGJFSCHA A;CHM @LIG NB? L?>O=NCIH I@ CH@ILG;NCIH;F IJ;=CNS ;H> LGM NB;N ?RJILN J;LN I@ NB?CL JLI>O=NCIH ;L? F?MM =IHMNL;CH?> JIN?HNC;FFS MCAH;FFCHA NB? QCFFCHAH?MM I@ <;HEM NI F?H> NI LGM QCNB BCAB?L ALIQNB JLIMJ?=NM
+3OLHCHA NI NB? P;LC;<F?M I@ CHN?L?MN IHFS NB? 3C?L  =;JCN;F L;NCI NOLHM ION NI B;P? ; MCAHC=;HN CGJ;=N IH NB? JLI<;<CFCNS I@ LGM <?CHA =IHMNL;CH?> CH NB? =L?>CN G;LE?N 3B? ??=N B;M NB? JL?>C=N?> MCAH H;G?FS <;HEM QBIM? J;L?HNM B;P? FIQ?L L?AOF;NILS =;JCN;F L;NCIM N?H> NI L?MNLC=N =L?>CN ;==?MM GIL? 3B? L?MOFN =IHNCHO?M NI BIF> IH=? Q? ?FCGCH;N? NB? ??=N I@ NB? <;F;H=? MB??N =B;HH?F <S CHN?AL;NCHA ION NB? OHI<M?LP;<F? CH@ILG;NCIH ;MMI=C;N?> QCNB NB? >?=CMCIH NI ;JJFS @IL <;HE =L?>CN IL NI M?F?=N IH?M?F@ ION I@ NB? ;JJFC=;NCIH JLI=?MM -OG?LC=;FFS ; MN;H>;L> >?PC;NCIH >?=L?;M? CH ;P?L;A? 3C?L  =;JCN;F L;NCI @IL <;HEM CH ; J;LNC=OF;L FI=;FCNS CH=L?;M?M NB? JLI<;<CFCNS I@ LGM CH NB;N FI=;FCNS <?CHA =IHMNL;CH?> <S ;<ION 
+6B?H Q? ;JJFS NB? M?=IH> Q?CABNCHA =LCN?LCIH CH /;H?F ! H;G?FS Q?CABNCHA NB? JLI<;<CFCNS I@ NB? LG >ICHA <OMCH?MM QCNB ?;=B J;LNC=OF;L <;HE <S NB? HOG<?L I@ <L;H=B?M NB? <;HE B;M CH NB;N FI=;FCNS NB? MCAHC=;H=? I@ NB? ??=N I@ NB? <;HE M 3C?L  =;JCN;F L;NCI CH=L?;M?M 3B? G;AHCNO>? I@ NB? ??=N CM MG;FF?L NI NB? IH? CH /;H?F  ;H> ; MN;H>;L> >?PC;NCIH >?=L?;M? CH ;P?L;A? 3C?L  =;JCN;F L;NCI @IL <;HEM CH ; J;LNC=OF;L FI=;FCNS CH=L?;M?M NB? JLI<;<CFCNS I@ LGM CH NB;N FI=;FCNS <?CHA =IHMNL;CH?> <S ;<ION  3B? MCAH I@ NB? CHP?LM? I@ ,CFF M L;NCI CM A?H?L;FFS JIMCNCP? CGJFSCHA NB;N OHI<M?LP;<F?M QBC=B CH=L?;M? NB? JLI<;<CFCNS I@ H??>CHA <;HE =L?>CN ;FMI CH=L?;M? NB? JLI<;<CFCNS I@ <?CHA =IHMNL;CH?> CH =L?>CN G;LE?NM
+FNBIOAB MIG? I@ NB? ??=NM ;L? IHFS MCAHC=;HN ;N NB?  F?P?F H;G?FS QB?H Q? Q?CABN <;HEM 3C?L  =;JCN;F L;NCIM ?KO;FFS L?=;FF NB;N <S FIIECHA ;N M=;F S?;L  Q? ;L? =;JNOLCHA IHFS NB? CHCNC;F MN;A?M I@ NB? =LCMCM OJ NI ,;L=B   (H ;>>CNCIH NI NB;N IOL L?MOFNM ;L? =IHN;GCH;N?> <S GIHNBM I@ JL?=LCMCM ?RJ?LC?H=? <?@IL? OAOMN  (H NB;N M?HM? C@ NB?L? CM <C;M CH IOL ?MNCG;N?M CN IHFS AI?M ;A;CHMN H>CHA ;HS NL;HMGCMMCIH I@ =LCMCML?F;N?> H;H=C;F >CMNL?MM
+ECB
+22 Working Paper Series No 1203 June 2010
+
+4.2.3 Pooled 2008 and 2005 data We next repeat the empirical tests on the sample of rms that are present either in the 2008 and the 2005 BEEPS, employing equation (2) and the Heckman selection-corrected version of it. This allows us to account for the changing composition of rms that select themselves out of the applciation process, going from the peak to the trough of the credit cycle. In other words, the information on whether rms do not apply for credit because they don't need it, or because they are discouraged, and how that changes over time, is used to eliminate the potential contamination of our estimates by the correlation between credit needs and bank nancial health. These results are reported in Table 8.16 In this speci cation, only Tier 1 capital seems to matter for credit constraints, once the e ect of demand for credit is eliminated (Panel A). Similar to the full sample, once we weigh the probability of rms doing business with a particular bank by the number of branches the bank has in the locality of the rm, the e ect of low Tier 1 capital ratio on rejection probabilities becomes larger and signi cant at the 5% level (Panel B). In addition, lower capital ratios are also associated with higher rejection probabilities - a two standard deviations decrease in this variable results in a 24% higher rejection probability. Importantly, we con rm that not accounting for selection introduces downward bias. This time, once year e ects are eliminated, the sign of the inverse of Mill's ratio is generally negative, implying that unobservables which increase the probability of needing bank credit, also decrease the probability of being constrained in credit markets.
+4.3 International transmission of nancial distress
+The analysis so far conveys little information on the international transmission of nancial shocks. As illustrated by Table 4, still relatively large portions of the banking sector are owned by domestic banks. That share in 2008 is 21% for the sample, 24% for Poland, 36% for Hungary and Latvia, and 71% for Slovenia. In essence, so far we have measured the transmission of distress from the
+nancial to the corporate sector regardless of bank ownership. For that reason, we next improve the model by restricting the sample to localilties where a majority of the assets of present banks
+16In all tables to follow, only coe cients of interest are reported for brevity.
+ECB
+23 Working Paper Series No 1203 June 2010
+
+are held by foreign banks. That share is calculated individually for each locality by calculating the share of retail branches held by subsidiaries and branches of foreign banks present in that particular locality by the total number of bank branches in that locality. We then look at localities with at least 2/3 foreign presence.
+Table 9 reports the estimates of this empirical exercise on the international transmission of nancial distress during the 2007-2008 crisis. It turns out that once we restrict our attention to foreign bank-dominated localities, all measures of nancial distress matter (in the pooled sample). In other words, higher nancial distress is associated with lower loan granting probability when nancial distress is measured as a low equity ratio, a low Tier 1 capital ratio, or high losses on nancial assets. Numerically, a 2-standard deviation decrease in equity capital, Tier 1 capital, and gains on nancial assets is associated with a 31%, 40%, and 11% increase in rejection rates, respectively. This result holds after the correction for the possibility that weak rms select themselves out of the application process in the case of Tier 1 capital and equity capital, and only appears before accounting for selection in the case of losses on nancial assets in the pooled sample.
+4.4 Transmission of nancial distress: foreign vs. domestic
+An important question that arises given the evidence so far is, do foreign or domestic banks transmit a larger portion of an identical nancial shock. Table 10 reports the estimates from the di erencein-di erences regression where we compare the transmission of nancial distress by domestic and foreign banks, that is, equation (3). Tellingly, whenever signi cant, the interaction e ect implies that foreign banks react to the same shock to balance sheets by shrinking their portfolio more than domestic banks. This is observed in the case of shocks to Tier 1 capital and to equity capital. In the case of equity capital, we observe the e ect both in the 2008 and in the pooled samples, while in the case of Tier 1 capital ratios the e ect is observed only in the 2008 sub-sample. Consequently, we can conclude with a fair degree of statistical certainty that foreign banks transmit more of an identical nancial shock to their capital than domestic banks.
+Apart from a parametric con rmation of the non-parametric observation in Table 6, this result o ers important insights into the role of foreign banks in emerging markets. In general, the e ect of
+ECB
+24 Working Paper Series No 1203 June 2010
+
+foreign banks on business lending in the literature is ambiguous. A large literature has found that foreign bank presence is associated with higher access to loans (Clarke, Cull, and Peria (2006)), higher rm-level sales (Giannetti and Ongena (2009)), and lower loan rates and higher rm leverage (Ongena and Popov (2009)). On the other hand, Berger, Klapper, and Udell (2001), Mian (2006), and Gormley (2009) show that foreign banks tend to nance only larger, established, and more pro table rms. Our paper complements that picture by providing evidence that while at the peak of the credit cycle lending by foreign banks is indistinguishable from lending by domestic banks in terms of acceptance rates, foreign banks do tend to shrink their loan portfolio following a capital crunch, even after controlling for the degree of nancial distress.
+4.5 Transmission of nancial distress: di erential e ects
+Finally, we ask which rms are most a ected from the transmission of nancial distress. There are clear arguments in the literature on which rms and industries should be most a ected by credit rationing. Information asymmetries and the tangibility of the rm's assets, for example, are expected to play an important role in explaining di erences in credit availability across rms. Highrisk rms tend to su er more from credit rationing, especially when foreign bank lending is involved (Berger, Klapper, and Udell (2001)). In a global recessionary environment, rms are expected to be riskier if, for example, a large share of their pro ts traditionally comes from exports. Regarding asset tangibility, Berger, Ofek, and Swary (1996) show that rms with less tangible assets are more likely to lose access to credit when banks reprice risk. The rationale is that lenders rely more on collateral when making lending decision rather than investing in costly screening technologies, and this problem will tend to be exacerbated in an environment where risk is suddenly priced higher.
+We proceed by collecting data on mature U.S. rms and using it to construct industry benchmarks for asset tangibility. The rationale for doing so goes back to Rajan and Zingales (1998) who argued that the actual capital structure of small rms is a function of nancial constraints, while the capital structure of large mature rms is more representative of the cross-industry variations in the scale of projects, gestation period, the ratio of hard vs. soft information, the ratio of tangible vs. intangible assets, follow-up investments, etc. In addition, doing so for large U.S. rms makes
+ECB
+25 Working Paper Series No 1203 June 2010
+
+MOL? NB;N QB;N CM N;E?H ;M ; H;NOL;F CH>OMNLS @?;NOL? CM HIN =IHN;GCH;N?> <S MB;FFIQ H;H=C;F G;LE?NM
+%IFFIQCHA 1;D;H ;H> 8CHA;F?M M  ILCACH;F ;JJLI;=B Q? JLI=??> <S N;ECHA ;FF "IGJOMN;N LGM <?NQ??H  ;H>  6? LMN ?R=FO>? ;FF LGM NB;N ;L? SIOHA CH NB? M?HM? NB;N NB?S B;P? AIH? JO<FC= IHFS L?=?HNFS CH NB? F;MN  S?;LM NI G;E? MOL? NB;N Q? ;L? HIN =;JNOLCHA NB? ?R=?MMCP? ;JJ?NCN? @IL @OH>M ?RBC<CN?> >OLCHA NB? ?;LFS FC@? I@ ; JO<FC= LG %IL ?;=B LG Q? MOG ;=LIMM ;FF S?;LM CNM L;NCI I@ L?M?;L=B ;H> >?P?FIJG?HN ?RJ?HM?M IP?L M;F?M 6? N;E? NB? G?>C;H CH>OMNLS P;FO? I@ NB;N L;NCI ;H> NBCM P;FO? =IHMNCNON?M IOL CH>OMNLS <?H=BG;LE @IL 1 # CHN?HMCNS 2?=IH> Q? MOG ;=LIMM ;FF S?;LM ?;=B LG M L;NCI I@ NIN;F JBSMC=;F =;JCN;F OM?> CH JLI>O=NCIH IP?L NB? HOG<?L I@ ?GJFIS??M 3B? CH>OMNLS G?>C;H P;FO? I@ NB;N P;LC;<F? =IHMNCNON?M IOL CH>OMNLS <?H=BG;LE @IL ";JCN;F CHN?HMCNS %IL ?;=B I@ NB? NQI <?H=BG;LEM Q? B;P? ;H CH>OMNLS P;LC;NCIH %CH;FFS ;M ; JLIRS @IL LG LCME Q? OM? >CL=FS NB? M;GJF? CH@ILG;NCIH <S N;ECHA NBIM? LGM QBC=B B;P? <??H ?RJILN?LM CH NB? J;MN  S?;LM
+3;<F?  L?JILNM NB? ?MNCG;N?M I@ ?KO;NCIH  QB?L? ?;=B G?;MOL? I@ H;H=C;F >CMNL?MM B;M <??H CHN?L;=N?> QCNB ; >OGGS P;LC;<F? ?KO;F NI  C@ NB? LG CM ;H ?RJILN?L ; JLIRS @IL BCAB LCME CH NB? NIJ  I@ NB? >CMNLC<ONCIH I@ 1 # CHN?HMCNS IL CH NB? <INNIG  I@ ";JCN;F CHN?HMCNS CH <INB =;M?M ; JLIRS @IL ;MM?N N;HAC<CFCNS 6? IHFS @I=OM IH H;H=C;F >CMNL?MM ;M G?;MOL?> <S FIQ 3C?L  =;JCN;F L;NCIM ;M NBCM CM NB? IH? G?;MOL? NB;N CM GIMN =IHMCMN?HNFS ;MMI=C;N?> QCNB BCAB?L FI;H L?D?=NCIH L;N?M CH NB? ;H;FSMCM MI @;L (GJILN;HNFS NBCM MJ?=C=;NCIH ACP?M OM CHN?L;=NCIH ;N NB? =CNS ;H> CH>OMNLS F?P?F ;H> NBOM Q? =;H CH=FO>? =CNS >OGGC?M CH NB? L?AL?MMCIH 3B? >CL?=N ??=N I@ H;H=C;F >CMNL?MM CM HIQ @OFFS ;<MIL<?> <S NB?M? >OGGC?M ;FIHA QCNB ;HS OHI<M?LP;<F? P;LC;NCIH CH G;=LI?=IHIGC= =IH>CNCIHM ;N NB? FI=;NCIH F?P?F 3B? ??=N I@ NB? H;NOL;F CH>OMNLS <?H=BG;LEM CM ;<MIL<?> <S NB? CH>OMNLS >OGGC?M
+3B? L?MOFNM =IHLG NB? CHNOCNCIH LGM N?H> NI MO?L GIL? @LIG NB? NL;HMGCMMCIH I@ H;H=C;F >CMNL?MM QB?H NB?S ;L? J?L=?CP?> NI <? BCABLCME IL QB?H NB?S >I HIN B;P? ?HIOAB ;MM?NM NI JF?>A? ;M =IFF;N?L;F -OG?LC=;FFS NB? M;G? 3C?L  =;JCN;F L;NCI CM ;MMI=C;N?> QCNB ;  BCAB?L JLI<;<CFCNS I@ FI;H L?D?=NCIH @IL ?RJILNCHA LGM QCNB ;  BCAB?L JLI<;<CFCNS I@ FI;H L?D?=NCIH @IL LGM CH CH>OMNLC?M QCNB BCAB 1 # CHN?HMCNS ;H> QCNB ;  BCAB?L JLI<;<CFCNS I@ FI;H L?D?=NCIH @IL LGM
+ECB
+26 Working Paper Series No 1203 June 2010
+
+in industries with low per-worker capital.
+5 Conclusion
+The nancial crisis of 2007-2008, which started with the meltdown of sub-prime mortgages and securitized products and which has been characterized by severe losses and depletion of bank capital, has spurred unprecedented government recapitalization programs and liquidity injections by central banks. Since the inception of the crisis, it was feared that this depletion of capital may result in a severe credit crunch, especially to the corporate sector in countries populated by the hardest hit banks. Because the European economy is heavily bank-dependent and SMEs - usually the most vulnerable to a credit crunch due to their opacity - comprise up to 99% of the corporate sector, it was feared that European rms would be particularly heavily hit, despite the fact that the causal factors of the credit crunch originated elsewhere.
+In this paper, we investigate empirically the international transmission of nancial distress, from the loss in value of nancial assets to the balance sheets of big European and U.S. banks to business lending in their foreign markets - speci cally, central and eastern Europe. Several current unpublished studies have documented a credit crunch associated with weakened capital positions, however, ours is the rst one to simultaneously 1) demonstrate the cross-border dimensions of this phenomenon, and 2) eliminate the contamination of the lending channel by selection bias resulting from the changing composition of rms' demand for credit during recessions and by the failure to account for discouragement in the proxy for credit constraint.
+We nd that di erent types of nancial distress at western European and U.S. parent banks are associated with a signi cant impact on business lending to central and eastern European rms. While we do not observe an actual match between a bank and a rm, we match rms and banks by the locality of their respective operation. We nd that as early as late 2007/early 2008, rms reported higher credit constraints in localities populated by branches or subsidiaries of banks who in 2007 and 2008 had low equity capital, low Tier 1 capital ratios, and had recorded severe losses on nancial assets. Importantly, we nd that this e ect is stronger for localities predominantly
+ECB
+27 Working Paper Series No 1203 June 2010
+
+JIJOF;N?> <S @IL?CAH <;HEM 6? ;FMI H> NB;N BCABLCME LGM ;H> LGM QCNB @?Q?L N;HAC<F? ;MM?NM Q?L? >C?L?HNC;FFS GIL? ;?=N?> <S NBCM =;JCN;F =LOH=B 3B?M? L?MOFNM BIF> QB?H Q? ?FCGCH;N? NB? ??=N I@ >?G;H> MBC@NM CH L?MJIHM? NI Q?;E?HCHA LG <;F;H=? MB??NM ;M Q?FF ;M NB? <C;M L?MOFNCHA @LIG NB? MSMN?G;NC= M?F?=NCIH I@ LGM ION I@ NB? ;JJFC=;NCIH JLI=?MM .OL ?PC>?H=? CGJFC?M NB;N ;FF ?FM? ?KO;F LGM CH =IOHNLC?M FCE? NB? "T?=B 1?JO<FC= ;H> 1IG;HC; QB?L? G;DIL JILNCIHM I@ NB? <;HECHA G;LE?N ;L? B?F> <S NB? L?F;NCP?FS OH>?L=;JCN;FCT?> $LMN? &LIOJ ;H> 4HC"L?>CN &LIOJ Q?L?  GIL? =L?>CN =IHMNL;CH?> NB;H LGM CH =IOHNLC?M FCE? 'OHA;LS ;H> /IF;H> QB?L? NB? F;LA?MN <;HEM ;L? NB? >IG?MNC=;FFSIQH?> ;H> Q?FF =;JCN;FCT?> .3/ ;H> /*. L?MJ?=NCP?FS <ON ;FMI  GIL? =L?>CN =IHMNL;CH?> NB;H LGM CH 2FIP?HC; M?LP?> <S ?KO;FFS OH>?L=;JCN;FCT?> >IG?MNC= <;HEM 3BCM CM >CL?=N ?PC>?H=? I@ NB? AFI<;F NL;HMGCMMCIH I@ H;H=C;F >CMNL?MM CH NB? L?F;NCP?FS ?;LFS MN;A?M I@ NB?  H;H=C;F =LCMCM CH ; Q;S OHL?F;N?> NI NB? >?G;H> @IL FI;HM CH FI=;F G;LE?NM
+3B? H;H=C;F =LCMCM I@  B;M H;FFS F;C> NI L?MN NB? C>?; NB;N NB? ??=N I@ F;LA? H;H=C;F MBI=EM =;H <? =IHH?> FI=;FFS 6? B;P? MBIQH BIQ NB? =IFF;JM? I@ BIOMCHA P;FO?M CH NB? 42 B;M ;?=N?> NB? H;H=CHA =IH>CNCIHM I@ 2FIP;E LGM NBLIOAB NB? >?N?LCIL;NCHA =;JCN;F JIMCNCIHM I@
+OMNLC;H !?FAC;H ;H> (N;FC;H <;HEM IJ?L;NCHA CH 2FIP;EC; NBLIOAB NB?CL MO<MC>C;LC?M 6BCF? NB? =L?>CN =LOH=B IHFS MN;LN?> CH NB? NBCL> KO;LN?L I@  <;HEM E?JN NCABN?HCHA =L?>CN MN;H>;L>M OHNCF ;M F;N? ;M NB? @IOLNB KO;LN?L I@  ;H> GIMN FCE?FS ;@N?L NB;N 3BOM >?MJCN? NB? =IIL>CH;N?> ;=NCIHM I@ P;LCIOM H;NCIH;F ;H> MOJL;H;NCIH;F ;ONBILCNC?M QBC=B E?JN NB? AFI<;F H;H=C;F MSMN?G @LIG =IFF;JMCHA ;@N?L NB? @;FF I@ +?BG;H !LINB?LM CH 2?JN?G<?L  CN CM FCE?FS NB;N NB? FIMM?M NB;N NB? H;H=C;F MSMN?G ?H>OL?> B;P? CH>O=?> ;H> QCFF =IHNCHO? NI CH>O=? ; GO=B F;LA?L CGJ;=N IH NB? L?;F M?=NIL NB;H NB? IH? ?MNCG;N?> CH NBCM J;J?L 3B? NLO? ?RN?HN I@ NB? =L?>CN =LOH=B QCFF IHFS <?=IG? =F?;L QCNB NB? ;P;CF;<CFCNS I@ H?Q GIL? =IGJL?B?HMCP? >;N;
+ +88   9BE 78G4<?F
+ECB
+28 Working Paper Series No 1203 June 2010
+
+References
+[1] Beck, T., Demirgu·c-Kunt, A., and V. Maksimovic, 2005. Financial and legal constraints to growth: Does rm size matter? Journal of Finance 60, 137-177
+[2] Berger, A., Klapper, L., and G. Udell, 2001. The ability of banks to lend to informationally opaque small businesses. Journal of Banking and Finance, 25(12), 2127-2167.
+[3] Berger, A., and G. Udell, 1994. Did risk-based capital allocate bank credit and cause a "credit crunch" in the United States? Journal of Money, Credit, and Banking 26, 585-628.
+[4] Berger, P., Ofek, E., and I. Swary, 1996. Investor valuation of the abandonment option. Journal of Financial Economics, 42(2), 257-287.
+[5] Bernanke, B., and C. Lown, 1991. The credit crunch. Brookings Papers on Economics Activity 2, 205-248.
+[6] Brown, M., Jappelli, T., and M. Pagano, 2009. Information sharing and credit: Firm-level evidence from transition countries. Journal of Financial Intermediation 18, 151-172.
+[7] Brown, M., Ongena, S., Popov, A., and P. Yesin, 2009. Who needs credit and who gets credit in emerging Europe? European Central Bank mimeo.
+[8] Brunnermeier, M., 2009. Deciphering the liquidity and credit crunch 2007-2008. Journal of Economic Perspectives 23, 77-100.
+[9] Cerqueiro, G., 2009. Bank concentration, credit quality and loan rates. CentER mimeo. [10] Cetorelli, N., and L. Goldberg, 2008. Banking globalization, monetary transmission, and the
+lending channel. NBER Working Paper No. W14101. [11] Chakravarty, S., and T. Yilmazer, 2009. A multistage model of loans and the role of relation-
+ships. Financial Management (forthcoming). [12] Chava, S., and A. Purnanandam, 2009. The e ect of a banking crisis on bank-dependent
+borrowers. Journal of Financial Economics (forthcoming).
+ECB
+29 Working Paper Series No 1203 June 2010
+
+9: "F;LE? & "OFF 1 ;H> , /?LC;  %IL?CAH <;HEM J;LNC=CJ;NCIH ;H> ;==?MM NI =L?>CN ;=LIMM LGM CH >?P?FIJCHA =IOHNLC?M      
+
+9: "IR # ;H> 3 );JJ?FFC  3B? ??=N I@ <ILLIQCHA =IHMNL;CHNM IH =IHMOG?L FC;<CFCNC?M   !     
+
+9: #? ';;M 1 ;H> - P;H 'IL?H  3B? =LCMCM ;M ; Q;E?OJ =;FF #I <;HEM NCABN?H F?H>CHA MN;H>;L>M >OLCHA ; H;H=C;F =LCMCM $OLIJ?;H !;HE @IL 1?=IHMNLO=NCIH ;H> #?P?FIJG?HN GCG?I
+
+9: #?ALSM? ' ;H> 2 .HA?H;  #CMN;H=? F?H>CHA L?F;NCIHMBCJM ;H> =IGJ?NCNCIH     
+
+9: $!1#  "L?>CN "LOH=B (HN?LPC?Q QCNB $LCE !?LAFI@ "BC?@ ?=IHIGCMN I@ NB? $OLIJ?;H !;HE @IL 1?=IHMNLO=NCIH ;H> #?P?FIJG?HN BNNJQQQ?<L>=IGH?QMNILC?MBNG
+
+9: $"!  %CH;H=C;F 2N;<CFCNS 1?PC?Q #?=?G<?L 
+
+9: &C;HH?NNC , ;H> 2 .HA?H;  %CH;H=C;F CHN?AL;NCIH ;H> LG J?L@ILG;H=? $PC>?H=? @LIG @IL?CAH <;HE ?HNLS CH ?G?LACHA G;LE?NM 1?PC?Q I@ %CH;H=?  
+
+9: &ILGF?S 3  3B? CGJ;=N I@ @IL?CAH <;HE ?HNLS CH ?G?LACHA G;LE?NM $PC>?H=? @LIG (H>C;     @ILNB=IGCHA
+
+9: &ILNIH &  2F;JJ?> CH NB? @;=? <S NB? CHPCMC<F? B;H> !;HECHA ;H> NB? J;HC= I@  7;F? 2=BIIF I@ ,;H;A?G?HN GCG?I
+
+9: ';H=I=E # ;H> )  6CF=IR  3B? =L?>CN =LOH=B ;H> NB? ;P;CF;<CFCNS I@ =L?>CN NI MG;FF <OMCH?MM       
+
+9: ';S;MBC % ;H> $ /L?M=INN  3B? M CH );J;H !  
+
+FIMN >?=;>?   
+
+9: '?=EG;H )  2;GJF? M?F?=NCIH <C;M ;M MJ?=C=;NCIH ?LLIL   
+
+ECB
+30 Working Paper Series No 1203 June 2010
+
+9: '?LLG;HH 2 ;H> # ,CB;FD?E  3B? >?N?LGCH;HNM I@ =LIMM<IL>?L <;HE IQM NI ?G?LACHA G;LE?NM U H?Q ?GJCLC=;F ?PC>?H=? IH NB? MJL?;> I@ H;H=C;F =LCM?M !;HE @IL (HN?LH;NCIH;F 2?NNF?G?HNM GCG?I
+
+9: 'IOMNIH ) );G?M " ;H> # ,;L=OM  ";JCN;F G;LE?N @LC=NCIHM ;H> NB? LIF? I@ CHN?LH;F =;JCN;F G;LE?NM CH <;HECHA      
+
+9: (P;MBCH; 5 ;H> # 2=B;L@MN?CH  !;HE F?H>CHA >OLCHA NB? H;H=C;F =LCMCM I@  ';LP;L> !OMCH?MM 2=BIIF GCG?I
+
+9: )CG?H?T & .HA?H; 2 /?S>LI ) ;H> ) 2;OLCH;  ,IH?N;LS JIFC=S ;H> =L?>CN =LOH=B (>?HNC@SCHA MCGOFN;H?IOMFS NB? <;HE F?H>CHA ;H> <;F;H=? MB??N =B;HH?FM $OLIJ?;H "?HNL;F !;HE GCG?I
+
+9: *;HA ) ;H> 1 2NOFT  #I <;HECHA MBI=EM ;?=N <ILLIQ?L LG J?L@ILG;H=? I@ NB? );J;H?M? ?RJ?LC?H=?     
+
+H ;H;FSMCM
+
+9: *;MBS;J  ;H> ) 2N?CH  6B;N >I ; GCFFCIH I<M?LP;NCIHM IH <;HEM M;S ;<ION NB? NL;HMGCMMCIH I@ GIH?N;LS JIFC=S     
+
+9: *BQ;D;  ;H>  ,C;H  3L;=CHA NB? CGJ;=N I@ <;HE FCKOC>CNS MBI=EM $PC>?H=? @LIG ;H ?G?LACHA G;LE?N     U
+
+9: ,C;H   #CMN;H=? =IHMNL;CHNM 3B? FCGCNM I@ @IL?CAH F?H>CHA NI JIIL ?=IHIGC?M     
+
+9: .HA?H; 2 ;H>  /IJIP  (HN?L<;HE G;LE?N CHN?AL;NCIH FI;H L;N?M ;H> LG F?P?L;A? $OLIJ?;H "?HNL;F !;HE GCG?I
+
+9: /;L;PCMCHC #  +I=;F <;HE H;H=C;F =IHMNL;CHNM ;H> LG ;==?MM NI ?RN?LH;F H;H=?     
+
+9: /??E ) ;H> $ 1IM?HAL?H  3B? =;JCN;F =LOH=B -?CNB?L ; <ILLIQ?L HIL ; F?H>?L <?   !     
+
+ECB
+31 Working Paper Series No 1203 June 2010
+
+9: /??E  ) ;H> $ 1IM?HAL?H  3B? CHN?LH;NCIH;F NL;HMGCMMCIH I@ H;H=C;F MBI=EM 3B? =;M? I@ );J;H     
+
+9: /?N?LM?H , ;H> 1 1;D;H  #I?M >CMN;H=? MNCFF G;NN?L 3B? CH@ILG;NCIH L?PIFONCIH CH MG;FF <OMCH?MM F?H>CHA     
+
+9: /OLC , 1I=BIFF ) ;H> 2 2N??H  3B? CGJ;=N I@ NB? 42 H;H=C;F =LCMCM IH AFI<;F L?N;CF F?H>CHA %OKO; 2=BIIF I@ !OMCH?MM #OE? 4HCP?LMCNS GCG?I
+
+9: 1;D;H 1 ;H> + 8CHA;F?M  %CH;H=C;F >?J?H>?H=? ;H> ALIQNB      
+
+9: 2;HNIM )  !;HE =ILJIL;N? FI;H JLC=CHA @IFFIQCHA NB? MO<JLCG? =LCMCM %?>?L;F 1?M?LP? !;HE I@ -?Q 7ILE GCG?I
+
+9: 2=BH;<F /  %CH;H=C;F AFI<;FCT;NCIH ;H> NB? NL;HMGCMMCIH I@ =L?>CN MOJJFS MBI=EM $PC >?H=? @LIG ;H ?G?LACHA G;LE?N -?Q 7ILE 4HCP?LMCNS 6ILECHA /;J?L -I %(-
+
+9: 2N?CH )"  (HN?LH;F =;JCN;F G;LE?NM ;H> NB? =IGJ?NCNCIH @IL =ILJIL;N? L?MIOL=?M     
+
+9: 3IHA ' ;H> 2) 6?C  3B? GCM@ILNOH? I@ HIHH;H=C;F LGM CH ; H;H=C;F =LCMCM #CM?HN;HAFCHA H;H=? ;H> >?G;H> MBI=EM "$/1 >CM=OMMCIH J;J?L 
+
+9: 6;AMN?L ) #  (GJ;=N I@ NB?  !;MF?   
+
+==IL> IH CHN?LH;NCIH;F <;HEM  
+
+9: 6II #  (H M?;L=B I@ =;JCN;F =LOH=B 2OJJFS @;=NILM <?BCH> NB? =L?>CN MFIQ>IQH CH );J;H   !     
+
+ECB
+32 Working Paper Series No 1203 June 2010
+
+Figure 1. Origin and target countries in the data
+The map shows the cross-border dimension of the underlying data. Countries in dark color (Austria, Belgium, Denmark, Finland, France, Germany, Greece, Netherlands, and Sweden) are those in which the parent banks in the dataset are incorporated. Countries in light color (Albania, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithiania, Macedonia, Montenegro, Poland, Romania, Slovakia, and Slovenia) are those where the firms in the dataset are incorporated.
+
+ECB Working Paper Series No 1203
+June 33 2010
+
+Table 1. Timeline of events during the 2007-2008 crisis concerning banks and countries in the data
+
+Timeline
+Aug. 2007 - Aug. 2008 Sept. 2008
+
+Country Germany
+France U.S.
+
+Italy
+
+Netherlands
+
+Oct. 2008
+
+France
+
+Sweden
+
+Germany
+
+US
+
+Nov. 2008 Dec. 2008
+
+Italy Germany Germany Germany
+
+Jan. 2009
+
+France Netherlands
+
+Event
+Bayerische LandesBank is one of three LandesBanken to receive capital injections, credit lines, and assetbacked securities loss guranatees. The government recapitalizes Dexia. Emergency Economic Stabilization Act, containing a commitment for up to 700 bln. USD to purchase bad assets from banks. The parliament approves a law granting the government the possibility to recapitalize distressed banks. The government announces that public fudns can be used for bank recapitalization, of which 20 bln. EUR are immediately available. The Government approves 320 bln. EUR to provide loans to banks and other financial firms, including a 40 billion euro recapitalization plan. The government announces that it will guarantee up to 1.5 trillion SEK in new debt issues, and a 15 billion SEK stabilization fund. The government announces a 400 billion EUR plan to guarantee bank financing, including a 70 billion EUR recapitalization fund. The Treasury subscribes 20 bln. USD preferred shares at Citigroup and ring-fences its troubled assets worth up to 300 billion USD. The government approves a law to inject capital into sound banks. Bayerische LandesBank receives 7 billion EUR of capital from the Bavarian state. The Finance ministry provides Bayerische LandesBank with 15 billion EUR . The Finance ministry provides Commerzank with a 8.2 billion EUR loan, and buys 1.8 trillion EUR worth of equity. The government implements a second round of bank recapitalization for 10.5 billion EUR. The Dutch government provides a cack-up facility to back up the risks of ING's securitized mortgage portfolio worth 35.1 billion EUR.
+
+ECB
+34 Working Paper Series No 1203 June 2010
+
+Table 2. Summary statistics: Firm characteristics
+
+country Albania Bulgaria Croatia Czech Republic Estonia Hungary Latvia Lithuania Macedonia Montenegro Poland Romania Slovakia Slovenia Total
+
+# firms 133 457 208 316 402 406 385 386 477 134 621 709 349 397 5,380
+
+Small firm 0.90 0.84 0.81 0.72 0.78 0.73 0.70 0.75 0.80 0.85 0.79 0.70 0.70 0.71 0.76
+
+Big firm 0.04 0.02 0.04 0.03 0.03 0.06 0.04 0.03 0.03 0.01 0.02 0.03 0.06 0.05 0.03
+
+Public company
+0.00 0.05 0.06 0.07 0.16 0.01 0.02 0.02 0.06 0.04 0.05 0.06 0.05 0.10 0.06
+
+Private company
+0.33 0.47 0.51 0.61 0.62 0.65 0.69 0.71 0.56 0.27 0.24 0.66 0.18 0.62 0.53
+
+Sole proprietorship
+0.63 0.43 0.38 0.29 0.19 0.31 0.23 0.22 0.23 0.69 0.67 0.22 0.64 0.25 0.36
+
+Privatized 0.08 0.14 0.23 0.09 0.10 0.15 0.14 0.15 0.17 0.12 0.12 0.14 0.13 0.23 0.14
+
+Subsidized 0.03 0.07 0.20 0.22 0.16 0.22 0.12 0.17 0.04 0.03 0.13 0.10 0.15 0.24 0.14
+
+Exporter 0.27 0.25 0.36 0.46 0.34 0.34 0.34 0.37 0.41 0.15 0.28 0.18 0.34 0.61 0.33
+
+Competition 0.65 0.63 0.85 0.82 0.75 0.87 0.80 0.78 0.85 0.68 0.81 0.71 0.79 0.80 0.77
+
+Audited 0.63 0.43 0.47 0.54 0.80 0.75 0.70 0.39 0.59 0.53 0.37 0.38 0.57 0.44 0.53
+
+Note: The table presents statistics on the number of firms and the share of firms by size, ownership, privatization history, subsidies from central and local governments, access to foreign product markets, degree of competition, and access to international auditing, by country. See Appendix 1 for exact definitions. Source: BEEPS (2008 and 2005).
+
+ECB Working Paper Series No 1203
+June 35 2010
+
+Table 3. Summary statistics: Credit demand and access
+
+Country Albania Bulgaria Croatia Czech Republic Estonia Hungary Latvia Lithuania Macedonia Montenegro Poland Romania Slovakia Slovenia Total
+
+2008
+
+Need loan
+
+Constrained
+
+0.29
+
+0.47
+
+0.58
+
+0.52
+
+0.59
+
+0.42
+
+0.53
+
+0.32
+
+0.54
+
+0.27
+
+0.41
+
+0.31
+
+0.59
+
+0.48
+
+0.60
+
+0.23
+
+0.59
+
+0.50
+
+0.78
+
+0.48
+
+0.53
+
+0.41
+
+0.61
+
+0.33
+
+0.53
+
+0.40
+
+0.64
+
+0.15
+
+0.57
+
+0.37
+
+Need loan 0.74 0.65 0.77 0.78 0.58 0.88 0.74 0.70 0.77 0.80 0.66 0.75 0.60 0.77 0.72
+
+2005 Constrained 0.46 0.45 0.19 0.38 0.47 0.42 0.58 0.61 0.82 0.45 0.59 0.47 0.38 0.12 0.46
+
+Note: The table presents statistics on the share of firms who declare bank loans desirable, and the share of firms out of those that need a lon that have been formally rejected or did not apply because they found access to finance too difficult, by country. The data are for the fiscal year 2007 (until March 31, 2008). See Appendix 1 for exact definitions. Source: BEEPS (2008 and 2005).
+
+ECB
+36 Working Paper Series No 1203 June 2010
+
+Table 4. Bank ownership balance sheet data
+
+Country Albania Bulgaria Croatia Czech Republic Estonia Hungary Latvia Lithuania Macedonia Montenegro Poland Romania Slovakia Slovenia
+
+2005
+
+2008
+
+% foreign owned bank assets
+
+0.92
+
+0.94
+
+0.75
+
+0.82
+
+0.91
+
+0.90
+
+0.82
+
+0.86
+
+0.99
+
+0.99
+
+0.83
+
+0.64
+
+0.58
+
+0.64
+
+0.92
+
+0.92
+
+0.51
+
+0.86
+
+0.88
+
+0.79
+
+0.74
+
+0.76
+
+0.59
+
+0.87
+
+0.97
+
+0.99
+
+0.23
+
+0.29
+
+2005
+
+2008
+
+Equity/assets
+
+0.068
+
+0.051
+
+0.065
+
+0.061
+
+0.073
+
+0.063
+
+0.049
+
+0.044
+
+0.049
+
+0.038
+
+0.071
+
+0.058
+
+0.084
+
+0.062
+
+0.061
+
+0.053
+
+0.069
+
+0.065
+
+0.092
+
+0.091
+
+0.066
+
+0.065
+
+0.064
+
+0.053
+
+0.059
+
+0.054
+
+0.062
+
+0.055
+
+2005
+
+2008
+
+Tier 1 capital ratio
+
+9.01
+
+7.01
+
+9.65
+
+7.43
+
+7.84
+
+7.03
+
+8.74
+
+7.26
+
+9.39
+
+7.57
+
+8.51
+
+7.38
+
+9.31
+
+9.76
+
+8.59
+
+7.68
+
+9.77
+
+7.60
+
+9.13
+
+8.16
+
+9.41
+
+9.91
+
+8.44
+
+6.46
+
+8.60
+
+7.63
+
+8.08
+
+6.81
+
+2005
+
+2008
+
+Gain on financial assets
+
+0.02
+
+-0.04
+
+0.06
+
+-0.03
+
+0.06
+
+-0.02
+
+0.09
+
+-0.15
+
+0.05
+
+-0.03
+
+0.01
+
+-0.06
+
+0.02
+
+-0.06
+
+0.03
+
+-0.04
+
+0.06
+
+-0.01
+
+0.02
+
+-0.03
+
+0.02
+
+-0.09
+
+0.04
+
+-0.05
+
+0.01
+
+-0.06
+
+0.07
+
+-0.06
+
+Note: The table reports summary statistics on the share of the domestic banking system owned by branches and subsidiaries of foreign banks, of the average ratio of equity financing to total bank assets, of the average Tier 1 capital ratio, and of average gains on financial assets by the parent of the banks operating in each country, by country. The data are averaged for 2005 and 2008, respectively. See Appendix 1 for exact definitions. Source: EBRD Transition Report (2008) and Bankscope (2008).
+
+ECB Working Paper Series No 1203
+June 37 2010
+
+Table 5. Probability of desiring bank credit
+
+Finance Small firm Big firm Public company Private company Sole proprietorship Privatized Exporter Competition Audited Subsidized Firm age Country fixed effects Year fixed effects Observations Pseudo R-squared
+
+Finance = Equity/assets
+-0.067 (0.040)* -0.211 (0.055)***
+0.088 (0.119) 0.044 (0.127) 0.191 (0.098)** 0.256 (0.098)*** 0.030 (0.064) 0.121 (0.045)*** 0.136 (0.046)*** 0.076 (0.046)* 0.282 (0.061)*** 0.001 (0.001)
+4,618 0.07
+
+Finance = Tier 1 capital ratio
+0.033 (0.066) -0.208 (0.055)*** 0.089 (0.119) 0.045 (0.127) 0.192 (0.098)** 0.255 (0.098)*** 0.026 (0.064) 0.122 (0.045)*** 0.150 (0.048)*** 0.075 (0.045)* 0.283 (0.061)*** 0.001 (0.001)
+Yes Yes 4,618 0.07
+
+Finance = Gains on fin assets
+-0.021 (0.013)* -0.206 (0.055)***
+0.093 (0.119) 0.042 (0.127) 0.192 (0.097)** 0.260 (0.097)*** 0.029 (0.063) 0.124 (0.044)*** 0.150 (0.047)*** 0.079 (0.045)* 0.292 (0.061)*** 0.001 (0.001)
+4,722 0.07
+
+Note: The dependent variable is a dummy variable equal to 1 if the firm desires bank credit. `Finance' is one of the three financial variables from Table 4. Each finance variable is locality-specific and is constructed by weighting equally the respective financial variable for each parent bank which has at least one branch or subsidiary in that locality. Ommited category in firm size is `Medium firm'. All regressions include country and year fixed effects. *** indicates significance at the 1% level, ** at the 5% level, and * at the 10% level. See Appendix 1 for exact definitions. Source: BEEPS (2005 and 2008) and Bankscope (2005 and 2008).
+
+ECB
+38 Working Paper Series No 1203 June 2010
+
+Table 6. Affected vs. non-affected banks: rejection rates
+
+Affected localities Non-affected localities Difference
+
+Foreign-dominated 0.388 0.234
+0.154***
+
+Domestic-dominated 0.421 0.389 0.032
+
+Note: The table reports a difference-in-differences estimate from a Mann-Whitney two-sided test. `Affected' are localities where the average Tier 1 capital ratio of banks present in the bottom half of its distribution. For each locality, the variable is constructed by weighting by number of branches for each parent bank which has at least one branch or subsidiary in that locality. `Foreign banks-dominated' are localities where more than half of the branches are held by subsidiaries or branches of foreign banks. The statistical significance of the difference-in-differences estimate from a two-sided Mann-Whitney test can be found next to the difference, where *** indicates significance at the 1% level. Source: BEEPS (2008) and Bankscope (2008).
+
+ECB
+39 Working Paper Series No 1203 June 2010
+
+Table 7. Probability of being constrained (2008 sample)
+
+Panel A. Equally weighted bank data for each locality
+
+Finance Small firm Big firm Public company Private company Sole proprietorship Privatized Exporter Audited Subsidized Inverse Mill's ratio Country fixed effects Industry fixed effects Observations Pseudo R-squared
+
+Finance = Equity/assets
+
+-0.001
+
+-0.003
+
+(0.003)
+
+(0.004)
+
+0.393
+
+0.543
+
+(0.084)*** (0.105)***
+
+-0.184
+
+-0.141
+
+(0.185)
+
+(0.194)
+
+0.322
+
+0.315
+
+(0.216)
+
+(0.226)
+
+-0.104
+
+-0.127
+
+(0.171)
+
+(0.183)
+
+-0.065
+
+-0.017
+
+(0.177)
+
+(0.196)
+
+-0.031
+
+-0.034
+
+(0.099)
+
+(0.107)
+
+-0.211
+
+-0.254
+
+(0.075)*** (0.089)***
+
+-0.285
+
+-0.349
+
+(0.070)*** (0.084)***
+
+-0.072
+
+-0.270
+
+(0.090) (0.143)*
+
+0.294
+
+(0.211)
+
+2,082 0.12
+
+2,005 0.13
+
+Finance = Tier 1 capital
+
+-0.174
+
+-0.173
+
+(0.105)* (0.110)*
+
+0.394
+
+0.556
+
+(0.084)*** (0.110)***
+
+-0.186
+
+-0.138
+
+(0.186)
+
+(0.195)
+
+0.323
+
+0.314
+
+(0.216)
+
+(0.226)
+
+-0.106
+
+-0.129
+
+(0.171)
+
+(0.183)
+
+0.064
+
+-0.015
+
+(0.177)
+
+(0.196)
+
+-0.029
+
+-0.030
+
+(0.099)
+
+(0.107)
+
+-0.214
+
+-0.254
+
+(0.075)*** (0.087)***
+
+-0.283
+
+-0.350
+
+(0.070)*** (0.085)**
+
+-0.074
+
+-0.268
+
+(0.090) (0.142)*
+
+0.294
+
+(0.209)
+
+Yes
+
+Yes
+
+2,082
+
+2,005
+
+0.12
+
+0.13
+
+Finance = Gains on fin assets
+
+0.036
+
+0.064
+
+(0.039)
+
+(0.043)
+
+0.395
+
+0.543
+
+(0.084)*** (0.109)***
+
+-0.187
+
+-0.132
+
+(0.186)
+
+(0.194)
+
+0.324
+
+-0.312
+
+(0.216)
+
+(0.226)
+
+-0.102
+
+-0.118
+
+(0.171)
+
+(0.182)
+
+0.065
+
+-0.001
+
+(0.177)
+
+(0.195)
+
+-0.031
+
+-0.024
+
+(0.099)
+
+(0.106)
+
+-0.211
+
+-0.242
+
+(0.075)*** (0.086)***
+
+-0.285
+
+-0.343
+
+(0.070)*** (0.085)***
+
+-0.073
+
+-0.243
+
+(0.090) (0.140)*
+
+0.247
+
+(0.202)
+
+2,082 0.12
+
+2,005 0.13
+
+Note: The dependent variable is a dummy variable equal to 1 if the firm is credit constrained. `Finance' is one of the three financial variables from Table 4. Each finance variable is locality-specific and is constructed by weighting equally the respective financial variable for each parent bank which has at least one branch or subsidiary in that locality. Ommited category in firm size is `Medium firm'. `Inverse Mill's ratio' is the inverse of Mills'ratio from the probit model in Table 5 for each respective financial variable. Omitted categories from the probit equation in Table 5 are `Competition' and `Firm age'. The analysis is performed on all firms present in the 2008 survey. *** indicates significance at the 1% level, ** at the 5% level, and * at the 10% level. See Appendix 1 for exact definitions. Source: BEEPS (2008) and Bankscope (2008).
+
+ECB
+40 Working Paper Series No 1203 June 2010
+
+Table 7. Probability of being constrained (2008 sample)
+
+Panel B. Branch-weighted bank data for each locality
+
+Finance Small firm Big firm Public company Private company Sole proprietorship Privatized Exporter Audited Subsidized Inverse Mill's ratio Country fixed effects Industry fixed effects Observations Pseudo R-squared
+
+Finance = Equity/assets
+
+-0.127
+
+-0.147
+
+(0.519)
+
+(0.534)
+
+0.354
+
+0.501
+
+(0.081)*** (0.102)***
+
+-0.093
+
+-0.001
+
+(0.181)
+
+(0.189)
+
+0.268
+
+0.243
+
+(0.202)
+
+(0.211)
+
+-0.131
+
+-0.193
+
+(0.158)
+
+(0.169)
+
+-0.022
+
+-0.099
+
+(0.164)
+
+(0.186)
+
+-0.066
+
+-0.094
+
+(0.095)
+
+(0.103)
+
+-0.207
+
+-0.261
+
+(0.073)*** (0.085)***
+
+-0.275
+
+-0.308
+
+(0.067)*** (0.080)***
+
+-0.123
+
+-0.323
+
+(0.087) (0.141)**
+
+0.311
+
+(0.214)
+
+2,082 0.11
+
+2,013 0.10
+
+Finance = Tier 1 capital
+
+-0.164
+
+-0.165
+
+(0.081)** (0.082)**
+
+0.350
+
+0.492
+
+(0.081)*** (0.104)***
+
+-0.189
+
+-0.143
+
+(0.186)
+
+(0.195)
+
+0.318
+
+0.303
+
+(0.216)
+
+(0.227)
+
+-0.104
+
+-0.133
+
+(0.171)
+
+(0.183)
+
+0.074
+
+0.008
+
+(0.177)
+
+(0.196)
+
+-0.021
+
+-0.020
+
+(0.096)
+
+(0.107)
+
+-0.207
+
+-0.259
+
+(0.075)*** (0.085)***
+
+-0.249
+
+-0.309
+
+(0.070)*** (0.080)***
+
+-0.124
+
+-0.317
+
+(0.090) (0.141)**
+
+0.298
+
+(0.215)
+
+Yes
+
+Yes
+
+2,082
+
+2,013
+
+0.11
+
+0.10
+
+Finance = Gains on fin assets
+
+0.103
+
+0.259
+
+(0.407)
+
+(0.418)
+
+0.355
+
+0.571
+
+(0.084)*** (0.110)***
+
+-0.188
+
+-0.142
+
+(0.186)
+
+(0.194)
+
+0.325
+
+0.317
+
+(0.216)
+
+(0.226)
+
+-0.101
+
+-0.133
+
+(0.171)
+
+(0.182)
+
+0.067
+
+-0.027
+
+(0.177)
+
+(0.196)
+
+-0.028
+
+-0.035
+
+(0.099)
+
+(0.107)
+
+-0.208
+
+-0.259
+
+(0.075)*** (0.086)***
+
+-0.247
+
+-0.362
+
+(0.070)*** (0.085)***
+
+-0.073
+
+-0.290
+
+(0.090) (0.141)**
+
+0.340
+
+(0.207)*
+
+2,082 0.11
+
+2,005 0.13
+
+Note: The dependent variable is a dummy variable equal to 1 if the firm is credit constrained. `Finance' is one of the three financial variables from Table 4. Each finance variable is locality-specific and is constructed by weighting by number of branches the respective financial variable for each parent bank which has at least one branch or subsidiary in that locality. Omitted category in firm size is `Medium firm'. `Inverse Mill's ratio' is the inverse of Mills'ratio from the probit model in Table 5 for each respective financial variable. Omitted categories from the probit equation in Table 5 are `Competition' and `Firm age'. The analysis is performed on all firms present in the 2008 survey. *** indicates significance at the 1% level, ** at the 5% level, and * at the 10% level. See Appendix 1 for exact definitions. Source: BEEPS (2008) and Bankscope (2008).
+
+ECB
+41 Working Paper Series No 1203 June 2010
+
+Table 8. Probability of being constrained (pooled 2005 and 2008 samples)
+
+Finance
+Inverse Mill's ratio
+Country fixed effects Year fixed effects Observations Pseudo R-squared
+Finance
+Inverse Mill's ratio
+Country fixed effects Year fixed effects Observations Pseudo R-squared
+
+Panel A. Equally weighted bank data for each locality
+
+Finance = Equity/assets
+
+Finance = Tier 1 capital
+
+Finance = Gains on fin assets
+
+0.059
+
+0.060
+
+-0.162
+
+-0.159
+
+0.009
+
+-0.001
+
+(0.074)
+
+(0.074)
+
+(0.128) (0.129)* (0.022)
+
+(0.022)
+
+-0.154
+
+-0.154
+
+-0.150
+
+(0.094)*
+
+(0.093)*
+
+(0.076)**
+
+Yes
+
+Yes
+
+2,373
+
+2,344
+
+2,373
+
+2,344
+
+2,422
+
+2,393
+
+0.14
+
+0.15
+
+0.14
+
+0.15
+
+0.14
+
+0.14
+
+Panel B. Branch-weighted bank data for each locality
+
+Finance = Equity/assets
+
+Finance = Tier 1 capital
+
+Finance = Gains on fin assets
+
+-0.073
+
+-0.071
+
+-0.089
+
+-0.096
+
+-0.008
+
+-0.007
+
+(0.043)* (0.043)* (0.052)* (0.050)** (0.009)
+
+(0.009)
+
+-0.156
+
+-0.122
+
+-0.091
+
+(0.094)*
+
+(0.080)*
+
+(0.050)*
+
+Yes
+
+Yes
+
+2,373
+
+2,344
+
+2,373
+
+2,344
+
+2,422
+
+2,393
+
+0.14
+
+0.15
+
+0.14
+
+0.15
+
+0.14
+
+0.14
+
+Note: The dependent variable is a dummy variable equal to 1 if the firm is credit constrained. `Finance' is one of the three financial variables from Table 4. Each finance variable is locality-specific and is constructed by weighting equally (Panel A) or by number of branches (Panel B) the respective financial variable for each parent bank which has at least one branch or subsidiary in that locality. `Inverse Mill's ratio' is the inverse of Mills'ratio from the probit model in Table 5 for each respective financial variable. The regressions also include the rest of the independent variables from table 6. Omitted categories from the probit equation in Table 5 are `Competition' and `Firm age'. The analysis is performed on all firms present in the 2008 survey. *** indicates significance at the 1% level, ** at the 5% level, and * at the 10% level. See Appendix 1 for exact definitions. Source: BEEPS (2005 and 2008) and Bankscope (2005 and 2008).
+
+ECB
+42 Working Paper Series No 1203 June 2010
+
+Table 9. Probability of being constrained, foreign banks dominated localities
+
+Finance
+Inverse Mill's ratio
+Country fixed effects Industry fixed effects Observations Pseudo R-squared
+Finance
+Inverse Mill's ratio
+Country fixed effects Year fixed effects Observations Pseudo R-squared
+
+Panel A. 2008 sample
+
+Finance = Equity/assets
+
+Finance = Tier 1 capital
+
+-0.017
+
+-0.052
+
+-0.386
+
+-0.349
+
+(0.010)* (0.087) (0.212)* (0.169)**
+
+0.662
+
+0.616
+
+0.635
+
+0.563
+
+(0.359)* (0.358)* (0.359)* (0.361)
+
+Yes
+
+Yes
+
+1,178
+
+1,178
+
+1,178
+
+1,178
+
+0.11
+
+0.11
+
+0.09
+
+0.11
+
+Panel B. Pooled 2008 and 2005 samples
+
+Finance = Equity/assets
+
+Finance = Tier 1 capital
+
+-0.367
+
+-0.153
+
+-0.829
+
+-0.576
+
+(0.295) (0.075)** (0.503)* (0.300)**
+
+-0.022
+
+-0.083
+
+-0.017
+
+-0.021
+
+(0.117)
+
+(0.091)
+
+(0.116)
+
+(0.117)
+
+Yes
+
+Yes
+
+1,372
+
+1,372
+
+1,372
+
+1,372
+
+0.16
+
+0.16
+
+0.16
+
+0.16
+
+Finance = Gains on fin assets
+
+0.168
+
+-0.789
+
+(0.148)
+
+(0.787)
+
+0.646
+
+0.648
+
+(0.361)* (0.356)*
+
+1,178 0.09
+
+1,178 0.11
+
+Finance = Gains on fin assets
+
+-0.369
+
+-0.004
+
+(0.222)* (0.015)
+
+-0.078
+
+-0.034
+
+(0.088)
+
+(0.055)
+
+1,403 0.16
+
+1,403 0.16
+
+Note: The dependent variable is a dummy variable equal to 1 if the firm is credit constrained. `Finance' is one of the three financial variables from Table 4. Each finance variable is locality-specific and is constructed by weighting equally (Columns 1, 3, and 5) or by number of branches (Columns 2, 4, and 6) the respective financial variable for each parent bank which has at least one branch or subsidiary in that locality. `Inverse Mill's ratio' is the inverse of Mills'ratio from the probit model in Table 5 for each respective financial variable. The regressions also include the rest of the independent variables from table 6. The analysis is performed on all firms present in the 2008 survey (Panel A) and on the pooled sample of firms present either in the 2008 or the 2005 survey (Panel B). Only localities where more than 67% of banking assets are owned by branches or subsidiaries of foreign banks are included in the regressions. *** indicates significance at the 1% level, ** at the 5% level, and * at the 10% level. See Appendix 1 for exact definitions. Source: BEEPS (2005 and 2008) and Bankscope (2005 and 2008).
+
+ECB
+43 Working Paper Series No 1203 June 2010
+
+Table 10. Probability of being constrained: foreign vs. domestic banks
+
+Finance*Foreign Finance Foreign Inverse Mill's ratio Country fixed effects Industry fixed effects Observations Pseudo R-squared
+Finance*Foreign Finance Foreign Inverse Mill's ratio Country fixed effects Year fixed effects Observations Pseudo R-squared
+
+Panel A. 2008 sample
+
+Finance = Equity/assets
+
+Finance = Tier 1 capital
+
+-0.011
+
+-0.182
+
+-0.451
+
+-0.222
+
+(0.007)* (0.095)** (0.191)** (0.125)*
+
+-0.009
+
+0.109
+
+0.173
+
+-0.056
+
+(0.006)
+
+(0.089) (0.066)*** (0.120)
+
+0.339
+
+1.388
+
+3.574
+
+2.752
+
+(0.190)* (0.654)** (1.439)*** (1.795)
+
+0.515
+
+0.482
+
+0.510
+
+0.444
+
+(0.310)
+
+(0.309)
+
+(0.313)
+
+(0.310)
+
+Yes
+
+Yes
+
+1,428
+
+1,428
+
+1,428
+
+1,428
+
+0.11
+
+0.11
+
+0.11
+
+0.11
+
+Panel B. Pooled 2008 and 2005 samples
+
+Finance = Equity/assets
+
+Finance = Tier 1 capital
+
+-0.570
+
+-0.210
+
+0.345
+
+-0.098
+
+(0.346)* (0.074)*** (0.240)
+
+(0.116)
+
+0.043
+
+0.053
+
+-0.167
+
+-0.002
+
+(0.093)
+
+(0.061)
+
+(0.166)
+
+(0.095)
+
+0.467
+
+1.511
+
+0.204
+
+1.018
+
+(0.196)** (0.504)*** (0.203)
+
+(1.022)
+
+-0.598
+
+-0.437
+
+-0.597
+
+-0.430
+
+(0.088)*** (0.074)*** (0.088)*** (0.074)***
+
+Yes
+
+Yes
+
+1,650
+
+1,650
+
+1,650
+
+1,650
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+Finance = Gains on fin assets
+
+0.147
+
+-0.549
+
+(0.092)
+
+(0.758)
+
+0.088
+
+-0.641
+
+(0.069)
+
+(0.707)
+
+0.353
+
+0.079
+
+(0.201)
+
+(0.253)
+
+0.503
+
+0.508
+
+(0.312)
+
+(0.308)
+
+1,428 0.11
+
+1,428 0.11
+
+Finance = Gains on fin assets
+
+-0.121
+
+-0.016
+
+(0.359)
+
+(0.017)
+
+-0.038
+
+-0.001
+
+(0.031)
+
+(0.019)
+
+0.455
+
+0.142
+
+(0.297)* (0.178)
+
+-0.476
+
+-0.253
+
+(0.075)*** (0.052)***
+
+1,696 0.12
+
+1,710 0.13
+
+Note: The dependent variable is a dummy variable equal to 1 if the firm is credit constrained. `Finance' is one of the three financial variables from Table 4. Each finance variable is locality-specific and is constructed by weighting equally (Columns 1, 3, and 5) or by number of branches (Columns 2, 4, and 6) the respective financial variable for each parent bank which has at least one branch or subsidiary in that locality. `Foreign' is a dummy equal to 1 if the share of branches in each locality owned by branches or subsidiaries of foreign banks is more than 2/3, and to 0 if it is less than 1/3. `Inverse Mill's ratio' is the inverse of Mills'ratio from the probit model in Table 5 for each respective financial variable. The regressions also include the rest of the independent variables from table 6. The analysis is performed on all firms present in the 2008 survey (Columns (2), (4), and (6)) and on the subsample of firms present in both the 2008 and the 2005 survey (Columns (3), (5), and (7)). All regressions include country and industry fixed effects (Panel A), and country, industry, and year fixed efefcts (Panel B). *** indicates significance at the 1% level, ** at the 5% level, and * at the 10% level. See Appendix 1 for exact definitions. Source: BEEPS (2005 and 2008) and Bankscope (2005 and 2008).
+
+ECB
+44 Working Paper Series No 1203 June 2010
+
+Table 11. Probability of being constrained: differential effects
+
+Panel A. Equally weighted bank data for each locality
+
+Tier 1 capital * Exporter Tier 1 capital * R&D intensity Tier 1 capital * capital intensity
+
+-0.027 (0.049)
+
+-0.123 (0.063)**
+
+City fixed effects Industry fixed effects Observations Pseudo R-squared
+
+1,226 0.15
+
+Yes Yes 1,226 0.16
+
+Panel B. Branch-weighted bank data for each locality
+
+Tier 1 capital * Exporter Tier 1 capital * R&D intensity Tier 1 capital * capital intensity
+
+-0.155 (0.078)**
+
+-0.182 (0.098)*
+
+City fixed effects Industry fixed effects Observations Pseudo R-squared
+
+1,226 0.16
+
+Yes Yes 1,226 0.16
+
+-0.026 (0.044)
+1,226 0.16
+-0.186 (0.080)**
+1,226 0.16
+
+Note: The dependent variable is a dummy variable equal to 1 if the firm is credit constrained. `Finance' is one of the three financial variables from Table 4. Each finance variable is locality-specific and is constructed by weighting equally (Panel A) or by number of branches (Panel B) the respective financial variable for each parent bank which has at least one branch or subsidiary in that locality. `R&D intensity' is a dummy equal to 1 if the industry is in the top 50% of the distribution of industry medians of the ratio of research and development expenses to sales for mature Compustat firms over the period 1990-2000. `Capital intensity' is a dummy equal to 1 if the industry is in the bottom 50% of the distribution of industry medians of capital usage per worker with external funds for mature Compustat firms over the period 19902000. `Inverse Mill's ratio' is the inverse of Mills'ratio from the probit model in Table 5 for each respective financial variable. The regressions also include the rest of the independent variables from table 6. The analysis is performed on all firms present in the 2008 survey. All regressions include city and industry fixed effects. *** indicates significance at the 1% level, ** at the 5% level, and * at the 10% level. See Appendix 1 for exact definitions. Source: BEEPS (2008) and Bankscope (2008).
+
+ECB
+45 Working Paper Series No 1203 June 2010
+
+ECB Working Paper Series No 1203
+46 June 2010
+
+Appendix 1. Variables - Definitions and sources
+
+Variable Name
+Small firm Medium firm Big firm Size Age Public company Private company Sole proprietorship Privatized Subsidized Exporter Competition Audited Firm age Stand-alone firm
+
+Definition Firm characteristics Dummy=1 if firm has less than 99 employees Dummy=1 if the firm has betwee 100 and 499 employees Dummy=1 if firm has more than 500 employees Dummy=1 if the firm has more than 10 employees Dummy=1 if more than 10 years have elapsed since the firm's incorporation Dummy=1 if firm is a shareholder company / shares traded in the stock market Dummy=1 if firm is a shareholder company / shares traded privately if at all Dummy=1 if firm is a sole proprietorship Dummy=1 if the firm went from state to private ownership in the past Dummy=1 if the firm has received state subsidized in the past year Dummy=1 if firm's production is at least partially exported Dummy=1 if pressure from competitiors is "fairly" or "very" severe Dummy=1 if the firm has its financial accounts externally audited Number of years since the firm's year of incorporation Dummy=1 if the firm is stand-alone, 0 if it is part of larger establishment
+
+Source
+BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008 BEEPS 2005 & 2008
+
+ECB Working Paper Series No 1203
+June 47 2010
+
+Needs loan Constrained
+R&D intensity Capital intensity
+% foreign owned bank assets Foreign Equity/assets Tier 1 capital Gain on financial assets
+
+Credit demand and credit access Dummy=1 if the firm needs a loan
+Dummy=1 if the firm was refused a loan or didn't apply for one because of adverse loan conditions
+
+BEEPS 2005 & 2008 BEEPS 2005 & 2008
+
+Industry benchmarks Median proportion of the ratio of research and development expenses to sales for mature Compustat firms over the period 1990-2000 Median proportion of capital usage per worker for mature Compustat firms over the period 19902000
+Bank-level variables Share of banking sector assets owned by branches or subsidiaries of foreign banks
+Dummy=1 if more than 2/3 of the banking assets in the locality are owned by foreign banks, and to 0 if less than 1/3 are. Ratio of total equity to total assets
+Ratio of Tier 1 capital to total risk-weighted assets
+Gain on financial assets held by the bank
+
+Compustat Compustat
+EBRD Transition report 2008 Bankscope 2005 & 2008 Bankscope 2005 & 2008 Bankscope 2005 & 2008 Bankscope 2005 & 2008
+
+Country Albania Bulgaria
+Croatia
+Czech Republic
+Estonia Hungary Latvia
+
+Appendix 2. Domestic and parent banks in the sample
+
+Bank Alpha Bank Raiffeisen Banka Kombetare Trektare Tirana Bank Intessa San Paolo Bank Albania National Bank of Greece Emporiki Banka Credins Alpha bank Unicredit Bulbank DSK First Investment Bank PostBank Expressbank United Bulgarian Bank Reiffeisen Piraeus Zagrebaska Bank Privredna Bank Zagreb Erste & Steiermarkische Bank Raiffeisen Bank Societe Generale - Splitska Banka Hypo Alde Adria Bank OTP Banka Hrvatska Slavonska Banka Hrvatska Postanska Banka Ceska Sporitelna CSOB Komercni Banka UniCredit Bank CR Citibank Ceskomoravska zarucni a rozvojova banka GE Money Bank Hypotecni Banka Raiffeisenbank Swedbank Estonia SEB Sampo Pank Nordea OTP Bank K&H Commercial and Credit Bank MKB Bank CIB Bank Raiffeisen Bank Erste Bank Hungary KDB Bank UniCredit Bank Hungary Parex Hansabank Latvijas Krajbanka SMP Bank
+
+Parent bank and country of incorporation Alpha Bank - Greece Raiffeisen - Austira domestic Pireus Bank - Greece Intessa San Paolo - Italy National Bank of Greece Emporiki Bank - Greece domestic Alpha Bank - Greece UniCredit Group - Italy OTP - Hungary domestic EFG Eurobank - Greece Societe Generale - France National Bank of Greece Raiffeisen - Austira Piraeus Bank - Greece UniCredit Group - Italy Intessa San Paolo - Italy Erste Group - Austria Raiffeisen - Austria Societe Generale - France Hypo Group - Austria OTP - Hungary domestic domestic Erste Group - Austria KBC - Belgium Societe Generale - France UniCredit Group - Italy Citibank - US domestic GE Money - US KBC - Belgium Raiffeisen - Austira Swedbank - Sweden Skandinavska Enskilda Banken - Sweden Danske Pank - Denmark Nordea Bank - Finland domestic KBC - Belgium Bayerische Landesbank - Germany Intessa San Paolo - Italy Raiffeisen - Austira Erste Group - Austria KDB Seoul - Korea UniCredit Group - Italy domestic Swedbank - Sweden Snoras Bank - Lithuania domestic
+
+ECB
+48 Working Paper Series No 1203 June 2010
+
+Lithuania Macedonia Montenegro Poland Romania Slovakia Slovenia
+
+SEB Sampo Pank Nordea Snoras Bank Ukio Bankas Hansabankas Parex Bankas Alpha Bank Stopanska Banka Komercijalna Banka NLB Tutunska Banka Ohridska Banka Pro Credit Bank AtlasMont Bank Crnogorska Komercijalna Banka Hypo-Alpe-Adria Bank Komercijalna Banka ad Budva NLB Montenegro Banka Prva Banka Crne Gore Invest Banka Montenegro Podgoricka Banka SG Opportunity Bank PKO Bank Bank Pekao Bank BPH Bank Zachodni WBK ING Bank Slaski Bank Pocztowy Kredyt Bank mBank Getin Bank BCR BRD Group Societe General Volksbank Romania Raiffeisen Bank Alpha Bank Romania UniCredit Tiriac Bank Banca Transilvania Bancpost CEC Bank Vseobecna Uverova banka Slovenska Sporitelna Tatra Banka OTP Banka Slovensko Dexia Banka Slovensko UniCredit Bank Slovakia Volksbank Slovensko CSOB Slovakia Nova Ljubljanska Banka Nova Kreditna Banka Maribor Abanka SKB UniCredit Banka Koper Banka Celje Reiffeisen Krekova banka
+
+Skandinavska Enskilda Banken - Sweden Danske Pank - Denmark Nordea Bank - Finland domestic domestic Swedbank - Sweden Parex Group - Latvia Alpha Bank - Greece National Bank of Greece domestic NLB - Slovenia Societe Generale - France Pro Credit Group domestic OTP - Hungary Hypo Group - Austria domestic NLB - Slovenia domestic domestic Societe Generale - France domestic domestic UniCredit Group - Italy UniCredit Group - Italy AIB - Ireland ING Bank - Netherlands domestic KBC - Belgium Commerzbank - Germany domestic Erste Group - Austria Societe Generale - France Volksbank - Austria Raiffeisen - Austira Alpha Bank - Greece UniCredit Group - Italy domestic EFG Eurobank - Greece domestic Intessa San Paolo - Italy Erste Group - Austria Raiffeisen - Austira OTP - Hungary Dexia - Belgium UniCredit Group - Italy Volksbank - Austria KBC - Belgium KBC - Belgium domestic domestic Societe Generale - France UniCredit Group - Italy Intessa San Paolo - Italy domestic Raiffeisen - Austira
+ECB
+49 Working Paper Series No 1203 June 2010
+
+

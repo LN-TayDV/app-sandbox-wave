@@ -1,0 +1,18 @@
+{
+  "book": "HAN",
+  "units": 1010,
+  "kinds": {
+    "figure": 94,
+    "equation": 434,
+    "table": 14,
+    "assumption": 8,
+    "theorem": 265,
+    "caveat": 49,
+    "exercise": 112,
+    "concept": 6,
+    "example": 8,
+    "narrative": 20
+  },
+  "chapters": 20,
+  "files": 20
+}

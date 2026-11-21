@@ -1,0 +1,132 @@
+{
+  "book_code": "PIN",
+  "pdf": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\Robert S Pindyck_ Daniel L Rubinfeld - Microeconomics, Global Edition (2017, Pearson Education Limited) - libgen.li.pdf",
+  "sha256": "f24ccd442e2cf88912904dec7627a99163c8db9432cf12b8c040af06fee247c2",
+  "total_pages": 787,
+  "utc": "20261027_013204",
+  "manifest": {
+    "book_code": "PIN",
+    "pdf_path": "data/book/Robert S Pindyck_ Daniel L Rubinfeld - Microeconomics, Global Edition (2017, Pearson Education Limited) - libgen.li.pdf",
+    "pdf_abs_path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\Robert S Pindyck_ Daniel L Rubinfeld - Microeconomics, Global Edition (2017, Pearson Education Limited) - libgen.li.pdf",
+    "sha256": "f24ccd442e2cf88912904dec7627a99163c8db9432cf12b8c040af06fee247c2",
+    "total_pages": 787,
+    "pages_with_text": 786,
+    "pages_empty": 1,
+    "image_pages": 1,
+    "printed_pages_verified": 756,
+    "printed_pages_inferred": 29,
+    "printed_pages_unknown": 2,
+    "pages_with_warnings": 18,
+    "extraction_method": "pymupdf_get_text_text_plus_dict"
+  },
+  "page_warnings": [
+    {
+      "pdf_page": 3,
+      "warnings": [
+        "trang_it_text(44ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "warnings": [
+        "trang_it_text(58ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 26,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 90,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 170,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 180,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 210,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 284,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 368,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 370,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 454,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 544,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 574,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 610,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 646,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 676,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    },
+    {
+      "pdf_page": 784,
+      "warnings": [
+        "trang_it_text(36ky_tu)"
+      ]
+    }
+  ]
+}

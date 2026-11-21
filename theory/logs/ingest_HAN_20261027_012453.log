@@ -1,0 +1,23 @@
+{
+  "book_code": "HAN",
+  "pdf": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\econometrics-bruce-hansen-2014.pdf",
+  "sha256": "56b7780f852a47d76a0aa757c8b35b30ac3f04dc2f60ffdc3b98ed49af833bc5",
+  "total_pages": 387,
+  "utc": "20261027_012453",
+  "manifest": {
+    "book_code": "HAN",
+    "pdf_path": "data/book/econometrics-bruce-hansen-2014.pdf",
+    "pdf_abs_path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\econometrics-bruce-hansen-2014.pdf",
+    "sha256": "56b7780f852a47d76a0aa757c8b35b30ac3f04dc2f60ffdc3b98ed49af833bc5",
+    "total_pages": 387,
+    "pages_with_text": 387,
+    "pages_empty": 0,
+    "image_pages": 0,
+    "printed_pages_verified": 378,
+    "printed_pages_inferred": 0,
+    "printed_pages_unknown": 9,
+    "pages_with_warnings": 0,
+    "extraction_method": "pymupdf_get_text_text_plus_dict"
+  },
+  "page_warnings": []
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\PILOT_REPORT.md",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\ch13_text.txt",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\chunks.jsonl",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\coverage.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\manifest.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\pages.jsonl",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\HAN\\units\\ch13_units.csv",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\MAD\\chunks.jsonl",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\MAD\\coverage.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\MAD\\manifest.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\MAD\\pages.jsonl",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\PIN\\chunks.jsonl",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\PIN\\coverage.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\PIN\\manifest.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\PIN\\pages.jsonl",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\ROM\\chunks.jsonl",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\ROM\\coverage.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\ROM\\manifest.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\books\\ROM\\pages.jsonl",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\docs\\CHAPTER_REPORT_HAN_13.md",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\docs\\encoding_scan.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\docs\\encoding_scan.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": true
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\docs\\EXTRACTION_SOP.md",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\docs\\toc_summary.json",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\registry\\books.yaml",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\fix_han_mojibake.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\get_chapters_toc.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\get_toc.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\index_knowledge.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\ingest_book.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\ingest_segment.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\registry.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\segment_book.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  },
+  {
+    "path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\theory\\scripts\\validate_theory_layer.py",
+    "bom": false,
+    "utf8_ok": true,
+    "err": null,
+    "has_mojibake_like": false
+  }
+]

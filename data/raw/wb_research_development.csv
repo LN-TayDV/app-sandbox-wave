@@ -1,0 +1,541 @@
+country,date,value
+Brazil,2023,1.1938
+Brazil,2022,1.18873
+Brazil,2021,1.13371
+Brazil,2020,1.21907
+Brazil,2019,1.15115
+Brazil,2018,1.15016
+Brazil,2017,1.1175
+Brazil,2016,1.19584
+Brazil,2015,1.28464
+Brazil,2014,1.26971
+Brazil,2013,1.19567
+Brazil,2012,1.12684
+Brazil,2011,1.13966
+Brazil,2010,1.15992
+Brazil,2009,1.11866
+Brazil,2008,1.12904
+Brazil,2007,1.08138
+Brazil,2006,0.98807
+Brazil,2005,1.00247
+Brazil,2004,0.96343
+Brazil,2003,0.99939
+Brazil,2002,1.00967
+Brazil,2001,1.06197
+Brazil,2000,1.04752
+Canada,2023,1.81048
+Canada,2022,1.81291
+Canada,2021,1.87064
+Canada,2020,1.93413
+Canada,2019,1.75578
+Canada,2018,1.7372
+Canada,2017,1.68702
+Canada,2016,1.72903
+Canada,2015,1.6936
+Canada,2014,1.71482
+Canada,2013,1.70624
+Canada,2012,1.77303
+Canada,2011,1.78714
+Canada,2010,1.82504
+Canada,2009,1.91742
+Canada,2008,1.85578
+Canada,2007,1.90358
+Canada,2006,1.94304
+Canada,2005,1.97127
+Canada,2004,1.99735
+Canada,2003,1.96782
+Canada,2002,1.9717
+Canada,2001,2.02116
+Canada,2000,1.85849
+Canada,1999,1.74984
+Canada,1998,1.71051
+Canada,1997,1.61386
+Canada,1996,1.60682
+Switzerland,2023,3.22178
+Switzerland,2021,3.24862
+Switzerland,2019,3.14983
+Switzerland,2017,3.04671
+Switzerland,2015,3.04577
+Switzerland,2012,2.87456
+Switzerland,2008,2.65296
+Switzerland,2004,2.60818
+Switzerland,2000,2.26386
+Switzerland,1996,2.37649
+China,2023,2.57729
+China,2022,2.4945
+China,2021,2.38165
+China,2020,2.35712
+China,2019,2.20144
+China,2018,2.10232
+China,2017,2.07771
+China,2016,2.0595
+China,2015,2.01703
+China,2014,1.98475
+China,2013,1.96246
+China,2012,1.88095
+China,2011,1.75244
+China,2010,1.68456
+China,2009,1.6366
+China,2008,1.4233
+China,2007,1.35321
+China,2006,1.34923
+China,2005,1.29008
+China,2004,1.19732
+China,2003,1.10465
+China,2002,1.04418
+China,2001,0.92948
+China,2000,0.88409
+China,1999,0.74295
+China,1998,0.64185
+China,1997,0.63467
+China,1996,0.56014
+Czechia,2023,1.83369
+Czechia,2022,1.89089
+Czechia,2021,1.93302
+Czechia,2020,1.94537
+Czechia,2019,1.89547
+Czechia,2018,1.87652
+Czechia,2017,1.74513
+Czechia,2016,1.65411
+Czechia,2015,1.906
+Czechia,2014,1.94392
+Czechia,2013,1.86743
+Czechia,2012,1.757
+Czechia,2011,1.5323
+Czechia,2010,1.31352
+Czechia,2009,1.28943
+Czechia,2008,1.2352
+Czechia,2007,1.2967
+Czechia,2006,1.22564
+Czechia,2005,1.15998
+Czechia,2004,1.13619
+Czechia,2003,1.13817
+Czechia,2002,1.09272
+Czechia,2001,1.09343
+Czechia,2000,1.10377
+Czechia,1999,1.04295
+Czechia,1998,1.05423
+Czechia,1997,0.98251
+Czechia,1996,0.88366
+Germany,2023,3.1539
+Germany,2022,3.07096
+Germany,2021,3.0786
+Germany,2020,3.0897
+Germany,2019,3.11256
+Germany,2018,3.05057
+Germany,2017,2.9886
+Germany,2016,2.88393
+Germany,2015,2.87725
+Germany,2014,2.82218
+Germany,2013,2.78067
+Germany,2012,2.82499
+Germany,2011,2.75016
+Germany,2010,2.67632
+Germany,2009,2.68864
+Germany,2008,2.57152
+Germany,2007,2.41918
+Germany,2006,2.43043
+Germany,2005,2.40266
+Germany,2004,2.40278
+Germany,2003,2.44232
+Germany,2002,2.40856
+Germany,2001,2.3792
+Germany,2000,2.38654
+Germany,1999,2.32772
+Germany,1998,2.20748
+Germany,1997,2.18161
+Germany,1996,2.13663
+France,2023,2.17832
+France,2022,2.21937
+France,2021,2.21278
+France,2020,2.2742
+France,2019,2.19668
+France,2018,2.20407
+France,2017,2.20422
+France,2016,2.22468
+France,2015,2.22401
+France,2014,2.27173
+France,2013,2.23369
+France,2012,2.22761
+France,2011,2.18761
+France,2010,2.17771
+France,2009,2.21273
+France,2008,2.06363
+France,2007,2.02815
+France,2006,2.05331
+France,2005,2.05599
+France,2004,2.10438
+France,2003,2.13086
+France,2002,2.18758
+France,2001,2.1494
+France,2000,2.10066
+France,1999,2.1165
+France,1998,2.10343
+France,1997,2.15216
+France,1996,2.23224
+United Kingdom,2023,2.67614
+United Kingdom,2022,2.75224
+United Kingdom,2021,2.89968
+United Kingdom,2020,2.93993
+United Kingdom,2019,2.6707
+United Kingdom,2018,2.70889
+United Kingdom,2017,2.32602
+United Kingdom,2016,2.32051
+United Kingdom,2015,2.27566
+United Kingdom,2014,2.26488
+United Kingdom,2013,1.62096
+United Kingdom,2012,1.57587
+United Kingdom,2011,1.64681
+United Kingdom,2010,1.63887
+United Kingdom,2009,1.66991
+United Kingdom,2008,1.60901
+United Kingdom,2007,1.6183
+United Kingdom,2006,1.57625
+United Kingdom,2005,1.55004
+United Kingdom,2004,1.53089
+United Kingdom,2003,1.58131
+United Kingdom,2002,1.61383
+United Kingdom,2001,1.59544
+United Kingdom,2000,1.60963
+United Kingdom,1999,1.62268
+United Kingdom,1998,1.54777
+United Kingdom,1997,1.53729
+United Kingdom,1996,1.5754
+Hungary,2023,1.37748
+Hungary,2022,1.39056
+Hungary,2021,1.63327
+Hungary,2020,1.58067
+Hungary,2019,1.46473
+Hungary,2018,1.50196
+Hungary,2017,1.31498
+Hungary,2016,1.17645
+Hungary,2015,1.33884
+Hungary,2014,1.3437
+Hungary,2013,1.38449
+Hungary,2012,1.25758
+Hungary,2011,1.18116
+Hungary,2010,1.13102
+Hungary,2009,1.13027
+Hungary,2008,0.97817
+Hungary,2007,0.95488
+Hungary,2006,0.97835
+Hungary,2005,0.92043
+Hungary,2004,0.86077
+Hungary,2003,0.91985
+Hungary,2002,0.98314
+Hungary,2001,0.91225
+Hungary,2000,0.78999
+Hungary,1999,0.67067
+Hungary,1998,0.65606
+Hungary,1997,0.69745
+Hungary,1996,0.62791
+Indonesia,2020,0.28068
+Indonesia,2019,0.27129
+Indonesia,2018,0.22632
+Indonesia,2017,0.23805
+Indonesia,2016,0.24535
+Indonesia,2013,0.0847
+Indonesia,2009,0.08332
+Indonesia,2001,0.04756
+Indonesia,2000,0.06769
+India,2020,0.64558
+India,2019,0.65942
+India,2018,0.66001
+India,2017,0.66603
+India,2016,0.66984
+India,2015,0.6931
+India,2014,0.70158
+India,2013,0.70642
+India,2012,0.74399
+India,2011,0.75502
+India,2010,0.78849
+India,2009,0.83314
+India,2008,0.85876
+India,2007,0.80507
+India,2006,0.80473
+India,2005,0.82411
+India,2004,0.7569
+India,2003,0.71929
+India,2002,0.72567
+India,2001,0.73591
+India,2000,0.75699
+India,1999,0.72413
+India,1998,0.70378
+India,1997,0.68669
+India,1996,0.63905
+Italy,2023,1.37935
+Italy,2022,1.36563
+Italy,2021,1.41065
+Italy,2020,1.49869
+Italy,2019,1.45558
+Italy,2018,1.41934
+Italy,2017,1.36393
+Italy,2016,1.35915
+Italy,2015,1.33213
+Italy,2014,1.33148
+Italy,2013,1.29425
+Italy,2012,1.25559
+Italy,2011,1.19531
+Italy,2010,1.21296
+Italy,2009,1.21261
+Italy,2008,1.15548
+Italy,2007,1.12421
+Italy,2006,1.07903
+Italy,2005,1.04057
+Italy,2004,1.04662
+Italy,2003,1.05539
+Italy,2002,1.07704
+Italy,2001,1.03714
+Italy,2000,1.00104
+Italy,1999,0.97865
+Italy,1998,1.00275
+Italy,1997,0.98522
+Italy,1996,0.94421
+Japan,2023,3.44125
+Japan,2022,3.40053
+Japan,2021,3.27383
+Japan,2020,3.26556
+Japan,2019,3.21824
+Japan,2018,3.2192
+Japan,2017,3.16636
+Japan,2016,3.10665
+Japan,2015,3.24071
+Japan,2014,3.36788
+Japan,2013,3.27895
+Japan,2012,3.1737
+Japan,2011,3.20537
+Japan,2010,3.10495
+Japan,2009,3.1959
+Japan,2008,3.29224
+Japan,2007,3.29257
+Japan,2006,3.22766
+Japan,2005,3.13092
+Japan,2004,2.98125
+Japan,2003,2.99319
+Japan,2002,2.96514
+Japan,2001,2.92348
+Japan,2000,2.85841
+Japan,1999,2.84672
+Japan,1998,2.82745
+Japan,1997,2.72177
+Japan,1996,2.64303
+"Korea, Rep.",2023,4.94352
+"Korea, Rep.",2022,4.84753
+"Korea, Rep.",2021,4.59673
+"Korea, Rep.",2020,4.5214
+"Korea, Rep.",2019,4.36379
+"Korea, Rep.",2018,4.27155
+"Korea, Rep.",2017,4.07341
+"Korea, Rep.",2016,3.78638
+"Korea, Rep.",2015,3.78907
+"Korea, Rep.",2014,3.88983
+"Korea, Rep.",2013,3.77487
+"Korea, Rep.",2012,3.6852
+"Korea, Rep.",2011,3.44409
+"Korea, Rep.",2010,3.17913
+"Korea, Rep.",2009,3.02145
+"Korea, Rep.",2008,2.86774
+"Korea, Rep.",2007,2.75895
+"Korea, Rep.",2006,2.61516
+"Korea, Rep.",2005,2.42725
+"Korea, Rep.",2004,2.35292
+"Korea, Rep.",2003,2.19657
+"Korea, Rep.",2002,2.13042
+"Korea, Rep.",2001,2.19872
+"Korea, Rep.",2000,2.0494
+"Korea, Rep.",1999,1.9446
+"Korea, Rep.",1998,2.03608
+"Korea, Rep.",1997,2.17409
+"Korea, Rep.",1996,2.14233
+Mexico,2023,0.26746
+Mexico,2022,0.25727
+Mexico,2021,0.27305
+Mexico,2020,0.29185
+Mexico,2019,0.27629
+Mexico,2018,0.29816
+Mexico,2017,0.31955
+Mexico,2016,0.37601
+Mexico,2015,0.41477
+Mexico,2014,0.41962
+Mexico,2013,0.40806
+Mexico,2012,0.40284
+Mexico,2011,0.45268
+Mexico,2010,0.47353
+Mexico,2009,0.45748
+Mexico,2008,0.42416
+Mexico,2007,0.38039
+Mexico,2006,0.35298
+Mexico,2005,0.38103
+Mexico,2004,0.37053
+Mexico,2003,0.37454
+Mexico,2002,0.33745
+Mexico,2001,0.30815
+Mexico,2000,0.29205
+Mexico,1999,0.32719
+Mexico,1998,0.28519
+Mexico,1997,0.26404
+Mexico,1996,0.23838
+Netherlands,2023,2.26719
+Netherlands,2022,2.17529
+Netherlands,2021,2.21542
+Netherlands,2020,2.26514
+Netherlands,2019,2.14036
+Netherlands,2018,2.1027
+Netherlands,2017,2.14167
+Netherlands,2016,2.11546
+Netherlands,2015,2.11792
+Netherlands,2014,2.15067
+Netherlands,2013,2.13953
+Netherlands,2012,1.90094
+Netherlands,2011,1.8651
+Netherlands,2010,1.69388
+Netherlands,2009,1.65161
+Netherlands,2008,1.61247
+Netherlands,2007,1.66063
+Netherlands,2006,1.73208
+Netherlands,2005,1.7667
+Netherlands,2004,1.78132
+Netherlands,2003,1.77665
+Netherlands,2002,1.73931
+Netherlands,2001,1.79214
+Netherlands,2000,1.78907
+Netherlands,1999,1.81986
+Netherlands,1998,1.73966
+Netherlands,1997,1.84171
+Netherlands,1996,1.83733
+Poland,2023,1.55525
+Poland,2022,1.44162
+Poland,2021,1.41558
+Poland,2020,1.37128
+Poland,2019,1.3088
+Poland,2018,1.19426
+Poland,2017,1.03055
+Poland,2016,0.9616
+Poland,2015,0.99807
+Poland,2014,0.9454
+Poland,2013,0.8807
+Poland,2012,0.88476
+Poland,2011,0.74726
+Poland,2010,0.72252
+Poland,2009,0.65932
+Poland,2008,0.59719
+Poland,2007,0.56103
+Poland,2006,0.54899
+Poland,2005,0.56121
+Poland,2004,0.54999
+Poland,2003,0.53626
+Poland,2002,0.55501
+Poland,2001,0.61861
+Poland,2000,0.63806
+Poland,1999,0.67786
+Poland,1998,0.65746
+Poland,1997,0.641
+Poland,1996,0.6369
+Russian Federation,2023,0.93518
+Russian Federation,2022,0.91494
+Russian Federation,2021,0.96602
+Russian Federation,2020,1.09099
+Russian Federation,2019,1.03531
+Russian Federation,2018,0.99001
+Russian Federation,2017,1.10967
+Russian Federation,2016,1.10238
+Russian Federation,2015,1.10085
+Russian Federation,2014,1.07241
+Russian Federation,2013,1.02732
+Russian Federation,2012,1.02766
+Russian Federation,2011,1.01545
+Russian Federation,2010,1.1302
+Russian Federation,2009,1.25192
+Russian Federation,2008,1.04435
+Russian Federation,2007,1.11611
+Russian Federation,2006,1.07294
+Russian Federation,2005,1.06797
+Russian Federation,2004,1.15133
+Russian Federation,2003,1.28604
+Russian Federation,2002,1.24652
+Russian Federation,2001,1.17694
+Russian Federation,2000,1.04983
+Russian Federation,1999,0.99623
+Russian Federation,1998,0.95383
+Russian Federation,1997,1.04374
+Russian Federation,1996,0.96591
+Sweden,2023,3.59978
+Sweden,2022,3.47239
+Sweden,2021,3.41565
+Sweden,2020,3.50181
+Sweden,2019,3.39847
+Sweden,2018,3.34602
+Sweden,2017,3.39374
+Sweden,2016,3.25643
+Sweden,2015,3.24088
+Sweden,2014,3.12457
+Sweden,2013,3.27557
+Sweden,2012,3.24636
+Sweden,2011,3.20686
+Sweden,2010,3.18756
+Sweden,2009,3.41266
+Sweden,2008,3.49083
+Sweden,2007,3.24176
+Sweden,2006,3.47963
+Sweden,2005,3.3641
+Sweden,2004,3.36628
+Sweden,2003,3.5823
+Sweden,2001,3.87215
+Sweden,1999,3.37825
+Sweden,1997,3.27265
+Turkiye,2023,1.42224
+Turkiye,2022,1.32342
+Turkiye,2021,1.40209
+Turkiye,2020,1.36748
+Turkiye,2019,1.3196
+Turkiye,2018,1.27093
+Turkiye,2017,1.17632
+Turkiye,2016,1.11979
+Turkiye,2015,0.96732
+Turkiye,2014,0.8564
+Turkiye,2013,0.81206
+Turkiye,2012,0.82595
+Turkiye,2011,0.79393
+Turkiye,2010,0.79369
+Turkiye,2009,0.80363
+Turkiye,2008,0.68741
+Turkiye,2007,0.68616
+Turkiye,2006,0.55292
+Turkiye,2005,0.56381
+Turkiye,2004,0.49713
+Turkiye,2003,0.46532
+Turkiye,2002,0.50904
+Turkiye,2001,0.52247
+Turkiye,2000,0.46558
+Turkiye,1999,0.45557
+Turkiye,1998,0.36198
+Turkiye,1997,0.49168
+Turkiye,1996,0.45159
+United States,2023,3.44716
+United States,2022,3.48736
+United States,2021,3.4689
+United States,2020,3.41788
+United States,2019,3.14297
+United States,2018,2.98956
+United States,2017,2.88315
+United States,2016,2.83677
+United States,2015,2.77328
+United States,2014,2.70882
+United States,2013,2.69591
+United States,2012,2.67272
+United States,2011,2.73803
+United States,2010,2.71443
+United States,2009,2.7918
+United States,2008,2.74481
+United States,2007,2.61516
+United States,2006,2.54545
+United States,2005,2.50192
+United States,2004,2.48685
+United States,2003,2.55014
+United States,2002,2.54746
+United States,2001,2.63715
+United States,2000,2.61982
+United States,1999,2.54362
+United States,1998,2.49621
+United States,1997,2.47714
+United States,1996,2.45013

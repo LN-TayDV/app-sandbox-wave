@@ -1,0 +1,62 @@
+{
+  "pilot_b4_hansen_ch07": {
+    "book_code": "HAN",
+    "chapter": 7,
+    "chapter_title": "Restricted Estimation",
+    "pdf_pages": [178, 191],
+    "printed_pages": [169, 182],
+    "total_pages_chapter": 14,
+    "date": "2026-10-27",
+    "m1_math_level": {
+      "total_equations": 51,
+      "level_a_clean_text": 20,
+      "level_b_reconstruction": 7,
+      "level_c_image_only": 24,
+      "level_a_pct": 39.2,
+      "level_b_pct": 13.7,
+      "level_c_pct": 47.1
+    },
+    "m2_hours_actual": 4.0,
+    "m3_units": {
+      "total": 87,
+      "equation": 51,
+      "theorem": 14,
+      "exercise": 21,
+      "narrative": 1,
+      "before_dedup": 94,
+      "removed_duplicates": 7
+    },
+    "m4_validator": {
+      "exit_code": 1,
+      "checks_passed": 5,
+      "checks_failed": 2,
+      "failed_checks": ["V1_SCHEMA", "V3_FK"],
+      "failure_reason": "Schema chênh lệch giữa CSV đơn vị capítulo (SOP §2) và registry phương trình — không phải lỗi dữ liệu",
+      "data_checks_pass": ["V2_GLOBAL_ID", "V4_PAGES", "V5_VOCAB", "V6_LATEX", "V7_STATUS"]
+    },
+    "l0_coverage": {
+      "pages_covered": 14,
+      "pages_resolved": 13,
+      "pages_unresolved": 1,
+      "unresolved_page": {"pdf": 182, "printed": 173, "chars": 1184},
+      "image_pages": 0
+    },
+    "provenance": {
+      "rows_with_full_provenance": 87,
+      "rows_missing_pages": 0,
+      "formula_unverified_without_note": 0
+    },
+    "verification_status": {
+      "FORMULA_UNVERIFIED": 63,
+      "BOOK_EVIDENCE": 24
+    },
+    "b5_decision": "CẦN XỬ LÝ TOÁN HỌC BỞI SUNG",
+    "b5_reason": "47.1% phương trình Level C cần render-diff; 13.7% Level B cần rebuild; 1 trang chưa phân đoạn; validator exit code 1",
+    "b5_preconditions": [
+      "Chạy render-diff trên 24 phương trình Level C",
+      "Rebuild 7 phương trình Level B từ ảnh PDF",
+      "Phân đoạn trang pdf=182, gán kind cho từng chunk",
+      "Điều chỉnh validator cho schema CSV đơn vị chương"
+    ]
+  }
+}

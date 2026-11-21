@@ -1,0 +1,30 @@
+{
+  "book_code": "MAD",
+  "pdf": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\international-financial-management-11th-edition-by-jeff-madura.pdf",
+  "sha256": "c3d46ad07d42605115d358a9cfbc97a868a93fd6f5de9e79828a56568b984d36",
+  "total_pages": 742,
+  "utc": "20261027_012844",
+  "manifest": {
+    "book_code": "MAD",
+    "pdf_path": "data/book/international-financial-management-11th-edition-by-jeff-madura.pdf",
+    "pdf_abs_path": "C:\\Users\\PC\\Documents\\AI_project\\sandbox-financial\\data\\book\\international-financial-management-11th-edition-by-jeff-madura.pdf",
+    "sha256": "c3d46ad07d42605115d358a9cfbc97a868a93fd6f5de9e79828a56568b984d36",
+    "total_pages": 742,
+    "pages_with_text": 717,
+    "pages_empty": 25,
+    "image_pages": 25,
+    "printed_pages_verified": 685,
+    "printed_pages_inferred": 23,
+    "printed_pages_unknown": 34,
+    "pages_with_warnings": 1,
+    "extraction_method": "pymupdf_get_text_text_plus_dict"
+  },
+  "page_warnings": [
+    {
+      "pdf_page": 7,
+      "warnings": [
+        "trang_it_text(18ky_tu)"
+      ]
+    }
+  ]
+}

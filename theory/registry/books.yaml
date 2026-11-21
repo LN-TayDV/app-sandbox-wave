@@ -1,0 +1,58 @@
+# theory/registry/books.yaml - Manifest 4 cuốn sách (B2, L0)
+# Tao: 2026-10-27. total_pages + sha256 DOI tu PDF goc du lieu data/book/ (KHONG sua PDF goc).
+# pdf_path la duong dan 상대 so voi thu muc goc du an (sandbox-financial).
+# chapter_count: xac minh tu bookmarks PDF (get_toc); "unknown" neu khong co bookmarks level 1.
+# Giai doan B2 chi lam L0/L1/L2 - KHONG trich tri thuc (L3+).
+
+books:
+  HAN:
+    book_code: HAN
+    title: "Econometrics"
+    authors: "Bruce E. Hansen"
+    edition: "2014"
+    year: 2014
+    pdf_path: "data/book/econometrics-bruce-hansen-2014.pdf"
+    total_pages: 387
+    sha256: "56b7780f852a47d76a0aa757c8b35b30ac3f04dc2f60ffdc3b98ed49af833bc5"
+    chapter_count: unknown
+    chapter_count_source: "no_bookmarks"
+    notes: "PDF metadata title='econometrics.dvi', author='Bruce' (khong danh tin cahy); danh tinh xac minh qua ten file. Khong co bookmarks level 1 -> chapter_count chua xac minh."
+
+  ROM:
+    book_code: ROM
+    title: "Advanced Macroeconomics"
+    authors: "David Romer"
+    edition: "4th Edition"
+    year: 2011
+    pdf_path: "data/book/b81821bd16a42211f919748c26cd0774.pdf"
+    total_pages: 738
+    sha256: "2c40e2a14f4b8389b12082a4fdcae19889d28c3935e19ed6cfd3259b89a07919"
+    chapter_count: 12
+    chapter_count_source: "pdf_bookmarks"
+    notes: "PDF metadata title='Advanced Macroeconomics', author='David Romer' (xac minh). 12 chuong theo bookmarks/chapter_ranges. Ma pdf la b81821bd... (ten bam)."
+
+  PIN:
+    book_code: PIN
+    title: "Microeconomics, Global Edition"
+    authors: "Robert S. Pindyck, Daniel L. Rubinfeld"
+    edition: "Global Edition 2017"
+    year: 2017
+    pdf_path: "data/book/Robert S Pindyck_ Daniel L Rubinfeld - Microeconomics, Global Edition (2017, Pearson Education Limited) - libgen.li.pdf"
+    total_pages: 787
+    sha256: "f24ccd442e2cf88912904dec7627a99163c8db9432cf12b8c040af06fee247c2"
+    chapter_count: 20
+    chapter_count_source: "pdf_bookmarks"
+    notes: "total_pages=787 khop bao cao lich su (extract_pdf.json). Bao cao coverage.json lich su chi 761 trang -> lech 26 trang, xem theory/docs/COVERAGE_REPORT.md §PIN."
+
+  MAD:
+    book_code: MAD
+    title: "International Financial Management"
+    authors: "Jeff Madura"
+    edition: "11th Edition"
+    year: 2016
+    pdf_path: "data/book/international-financial-management-11th-edition-by-jeff-madura.pdf"
+    total_pages: 742
+    sha256: "c3d46ad07d42605115d358a9cfbc97a868a93fd6f5de9e79828a56568b984d36"
+    chapter_count: 21
+    chapter_count_source: "pdf_bookmarks"
+    notes: "PDF metadata title/author trong; danh tinh xac minh qua ten file."

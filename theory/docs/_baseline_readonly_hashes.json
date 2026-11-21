@@ -1,0 +1,14 @@
+{
+ "research": {
+  "sha256_all": "cb4e13481c49d5c5c3b7e1fa10407697e43a2ce54f0aed57fe9a38357b5307e3",
+  "n_files": 11246
+ },
+ "data/book": {
+  "sha256_all": "23cceb8e1f65cd9241b2a29fa1567e8704a77286100b9a7a35b66bc73e5786d8",
+  "n_files": 9
+ },
+ "tasks": {
+  "sha256_all": "24e7aaf7786648e342d53098a11b3dc000a7bd9d18e3807581fb256f88678070",
+  "n_files": 3
+ }
+}

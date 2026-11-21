@@ -1,0 +1,13 @@
+{
+  "book": "MAD",
+  "units": 439,
+  "kinds": {
+    "figure": 404,
+    "concept": 7,
+    "caveat": 6,
+    "assumption": 1,
+    "narrative": 21
+  },
+  "chapters": 21,
+  "files": 21
+}
